@@ -68,6 +68,113 @@
   </entry>
   
   <entry>
+    <title>Shadowsocks</title>
+    <link href="http://yoursite.com/2017/02/06/Shadowsocks/"/>
+    <id>http://yoursite.com/2017/02/06/Shadowsocks/</id>
+    <published>2017-02-05T16:00:00.000Z</published>
+    <updated>2017-02-06T11:45:48.935Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
+<h3 id="desktop-windows-Windows-下载-C-版"><a href="#desktop-windows-Windows-下载-C-版" class="headerlink" title="desktop_windows Windows 下载 C# 版"></a>desktop_windows Windows 下载 C# 版</h3><ul>
+<li><p>下载<a href="http://pan.baidu.com/s/1skN139V" target="_blank" rel="external">这个</a>， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。</p>
+</li>
+<li><p>server后面的数字在 服务器Ip 内，sever-port后面的数字填在 服务器端口 内，method指的是加密，按指定的在软件内选择即可。其余不用理会。</p>
+</li>
+<li><p>以上信息需与下方信息一一对应，否者很可能连接不上</p>
+</li>
+<li><p>然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。</p>
+</li>
+</ul>
+<h3 id="laptop-mac-Mac-OS-X"><a href="#laptop-mac-Mac-OS-X" class="headerlink" title="laptop_mac Mac OS X"></a>laptop_mac Mac OS X</h3><ul>
+<li><p>下载<a href="http://pan.baidu.com/s/1c2DsR2S" target="_blank" rel="external">这个</a> 安装，</p>
+</li>
+<li><p>然后下载<a href="http://pan.baidu.com/s/1hrKwaYK" target="_blank" rel="external">这个</a> 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。</p>
+</li>
+</ul>
+<h3 id="laptop-mac-iOS"><a href="#laptop-mac-iOS" class="headerlink" title="laptop_mac iOS"></a>laptop_mac iOS</h3><ul>
+<li><a href="https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8" target="_blank" rel="external">ios官方苹果商店</a> 强烈推荐下载Shadowrocket，然后在 Safari 中点击<a href="http://pan.baidu.com/s/1c2oqxFi" target="_blank" rel="external">这个</a>  然后点击确定，就可以批量添加节点。</li>
+</ul>
+<h3 id="laptop-mac-iOS-1"><a href="#laptop-mac-iOS-1" class="headerlink" title="laptop_mac iOS"></a>laptop_mac iOS</h3><ul>
+<li>（已失效）下载<a href="">这个</a>，导入到 Surge 中，然后就可以随意切换服务器上网了。</li>
+</ul>
+<h3 id="Android下载"><a href="#Android下载" class="headerlink" title="Android下载"></a>Android下载</h3><ul>
+<li><p>Android 版，点击<a href="http://pan.baidu.com/s/1o7RBuci" target="_blank" rel="external">这个</a> 安装，下方有两种安装方式。</p>
+</li>
+<li><p>方法一： 配置名称随便写，服务器填写下方节点信息中的server后面的数字，远程端口填写下方节点信息中sever—port后面的数字，密码填写下方节点信息对应的password，加密方法在下方节点信息中method后面，直接选择即可。其余不需理会。</p>
+</li>
+<li>以上信息需与下方信息一一对应，否者很可能连接不上。</li>
+<li>添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。</li>
+</ul>
+<ul>
+<li>方法二：点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。</li>
+<li>添加完节点，然后右上角点击粉色小飞机开启就可以上网了</li>
+</ul>
+<p><em>如果有任何疑问请联系咨询我的QQ或是Facebook。（联系方式在about关于页面）
+</em></p>
+<h2 id="节点配置"><a href="#节点配置" class="headerlink" title="节点配置"></a>节点配置</h2><pre><code>*Arukas Share Shadowsocks（by Evan）*
+</code></pre><ul>
+<li><em>注意以下IP和端口不定期变化！请注意更新<br>更新时间： 2017年2月5日</em><br>更新说明： 修复避免夜间ping至过高等问题。修复流量无限制问题。</li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓:</p>
+<p>  {“server”: “153.125.237.178”,”server_port”: 31160,”password”: “123456”,”method”:  rc4-md5”}</p>
+<p><img src="http://i.imgur.com/VuDPVPO.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓: 点击查看API接口</p>
+<p>  {“server”: “153.125.234.209”,”server_port”: 31298,”password”: “123456”,”method”: “rc4-md5”</p>
+<p><img src="http://i.imgur.com/RCOHKqu.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓: 点击查看API接口</p>
+<p>  {“server”: “153.125.235.208”,”server_port”: 31359,”password”: “123456”,”method”: “rc4-md5”}</p>
+<p><img src="http://i.imgur.com/czdgyl3.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓: 点击查看API接口</p>
+<p>  {“server”: “153.125.237.178”,”server_port”: 31844,”password”: “123456”,”method”: “rc4-md5”}</p>
+<p><img src="http://i.imgur.com/ZrNvuXg.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓: 点击查看API接口</p>
+<p>  {“server”: “153.125.237.180”,”server_port”: 31976,”password”: “123456”,”method”: “rc4-md5”}<br><img src="http://i.imgur.com/HqAt1Qf.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li>账号信息 ↓↓: 点击查看API接口<br><code>{&quot;server&quot;: &quot;153.125.237.173&quot;,&quot;server_port&quot;: 31139,&quot;password&quot;: &quot;123456&quot;,&quot;method&quot;: &quot;rc4-md5&quot;}</code><br><img src="http://i.imgur.com/2LKhBjF.png" alt=""></li>
+</ul>
+<ul>
+<li><p>账号信息 ↓↓: 点击查看API接口</p>
+<p>  {“server”: “153.125.237.172”,”server_port”: 31640,”password”: “123456”,”method”: “rc4-md5”}</p>
+<p><img src="http://i.imgur.com/37nyO5K.png" alt=""></p>
+</li>
+</ul>
+<ul>
+<li>账号信息 ↓↓: 点击查看API接口<br><code>{&quot;server&quot;: &quot;153.125.237.179&quot;,&quot;server_port&quot;: 31211,&quot;password&quot;: &quot;123456&quot;,&quot;method&quot;: &quot;rc4-md5&quot;}</code><br><img src="http://i.imgur.com/UNEnMKM.png" alt=""></li>
+</ul>
+<ul>
+<li>账号信息 ↓↓: 点击查看API接口<br><code>{&quot;server&quot;: &quot;153.125.235.242&quot;,&quot;server_port&quot;: 31014,&quot;password&quot;: &quot;12345&quot;,&quot;method&quot;: &quot;rc4-md5&quot;,&quot;protocol&quot;: &quot;origin&quot;,&quot;obfs&quot;: &quot;plain&quot;}</code><br><img src="http://i.imgur.com/GitGgQY.png" alt=""></li>
+</ul>
+<h2 id="等等…"><a href="#等等…" class="headerlink" title="等等…."></a>等等….</h2>]]></content>
+    
+    <summary type="html">
+    
+      Shadowsocks
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2017/02/05/hello-world/"/>
     <id>http://yoursite.com/2017/02/05/hello-world/</id>
@@ -92,77 +199,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Shadowsocks</title>
-    <link href="http://yoursite.com/2017/01/26/Shadowsocks/"/>
-    <id>http://yoursite.com/2017/01/26/Shadowsocks/</id>
-    <published>2017-01-25T16:00:00.000Z</published>
-    <updated>2017-02-06T07:19:59.033Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>使用方法</strong></p>
-<p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
-<p>1.<em>desktop_windows Windows 下载 C# 版</em></p>
-<ul>
-<li>下载这个<a href="http://pan.baidu.com/s/1skN139V" target="_blank" rel="external">http://pan.baidu.com/s/1skN139V</a> 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。</li>
-</ul>
-<ul>
-<li>server后面的数字在 服务器Ip 内，sever-port后面的数字填在 服务器端口 内，method指的是加密，按指定的在软件内选择即可。</li>
-</ul>
-<ul>
-<li>然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。</li>
-</ul>
-<p>2.<em>laptop_mac Mac OS X</em>下载这个<a href="http://pan.baidu.com/s/1c2DsR2S" target="_blank" rel="external">http://pan.baidu.com/s/1c2DsR2S</a> 安装，然后下载这个<a href="http://pan.baidu.com/s/1hrKwaYK" target="_blank" rel="external">http://pan.baidu.com/s/1hrKwaYK</a> 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。</p>
-<p>3.laptop_mac iOS <a href="https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8" target="_blank" rel="external">https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8</a> 强烈推荐下载Shadowrocket，然后在 Safari 中点击这个<a href="http://pan.baidu.com/s/1c2oqxFi" target="_blank" rel="external">http://pan.baidu.com/s/1c2oqxFi</a>  然后点击确定，就可以批量添加节点。</p>
-<p>4.laptop_mac iOS 下载这个，导入到 Surge 中，然后就可以随意切换服务器上网了。</p>
-<p>5.android Android下载 Android 版<a href="http://pan.baidu.com/s/1o7RBuci" target="_blank" rel="external">http://pan.baidu.com/s/1o7RBuci</a> 安装，批量添加完节点，然后路由选择绕过大陆，右上角开启就可以上网了。同时提供一个 ACL 地址，长按复制地址到客户端里应用即可。</p>
-<p>如果有任何疑问请联系咨询我的QQ或是Facebook。（联系方式在about关于页面）</p>
-<p><strong>节点配置</strong></p>
-<pre><code>*Arukas Share Shadowsocks（by Evan）*
-</code></pre><ul>
-<li>注意以下IP和端口不定期变化！请注意更新<br>更新时间：2017年2月5日</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓:<br>{“server”: “153.125.237.178”,”server_port”: 31160,”password”: “123456”,”method”:  rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.234.209”,”server_port”: 31298,”password”: “123456”,”method”: “rc4-md5”</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.235.208”,”server_port”: 31359,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.237.178”,”server_port”: 31844,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.237.180”,”server_port”: 31976,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.237.173”,”server_port”: 31139,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.237.172”,”server_port”: 31640,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.237.179”,”server_port”: 31211,”password”: “123456”,”method”: “rc4-md5”}</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>{“server”: “153.125.235.242”,”server_port”: 31014,”password”: “12345”,”method”: “rc4-md5”,”protocol”: “origin”,”obfs”: “plain”}</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      Shadowsocks
-    
-    </summary>
-    
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
-    
-    
-      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
   </entry>
   
