@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/baidu_verify_iYhdSvsA1P.html</loc>
+    <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2017-02-06T12:22:00.865Z</lastmod>
+    <lastmod>2017-02-10T07:38:55.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tage/index.html</loc>
+    
+    <lastmod>2017-02-10T07:38:29.038Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/02/06/Shadowsocks/</loc>
     
-    <lastmod>2017-02-06T11:45:48.935Z</lastmod>
+    <lastmod>2017-02-10T07:37:18.253Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/02/06/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2017-02-06T07:19:42.777Z</lastmod>
+    <lastmod>2017-02-10T07:28:40.253Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/baidu_verify_iYhdSvsA1P.html</loc>
+    
+    <lastmod>2017-02-06T12:22:00.865Z</lastmod>
     
   </url>
   
