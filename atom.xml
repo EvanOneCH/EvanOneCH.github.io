@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-10T07:28:40.253Z</updated>
+  <updated>2017-02-17T14:02:24.193Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,109 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>shawsocks节点信息持续更新【更新于-2017-02-17】</title>
+    <link href="http://yoursite.com/2017/02/17/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
+    <id>http://yoursite.com/2017/02/17/shawsocks节点信息/</id>
+    <published>2017-02-17T13:59:43.000Z</published>
+    <updated>2017-02-17T14:02:24.193Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.237.178&quot;,&quot;server_port&quot;:31160,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.234.209&quot;,&quot;server_port&quot;:31298,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.235.205&quot;,&quot;server_port&quot;:31446,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.237.178&quot;,&quot;server_port&quot;:31844,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.237.175&quot;,&quot;server_port&quot;:31079,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.237.173&quot;,&quot;server_port&quot;:31139,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.237.172&quot;,&quot;server_port&quot;:31640,&quot;password&quot;:&quot;123456&quot;,&quot;method&quot;:&quot;rc4-md5&quot;}
+
+
+
+
+账号信息 ↓↓: 点击查看API接口
+{&quot;server&quot;:&quot;153.125.235.242&quot;,&quot;server_port&quot;:31014,&quot;password&quot;:&quot;12345&quot;,&quot;method&quot;:&quot;rc4-md5&quot;,&quot;protocol&quot;:&quot;origin&quot;,&quot;obfs&quot;:&quot;plain&quot;}
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;账号信息 ↓↓: 点击查看API接口
+{&amp;quot;server&amp;quot;:&amp;quot;153.125.237.178&amp;quot;,&amp;quot;server_port&amp;quot;:31160,&amp;quot;password&amp;quot;:&amp;quot;12345
+    
+    </summary>
+    
+      <category term="翻墙" scheme="http://yoursite.com/categories/%E7%BF%BB%E5%A2%99/"/>
+    
+    
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017 Google hosts 持续更新【更新于:2017-02-09】</title>
+    <link href="http://yoursite.com/2017/02/17/2017-Google-hosts-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E3%80%90%E6%9B%B4%E6%96%B0%E4%BA%8E-2017-02-09%E3%80%91/"/>
+    <id>http://yoursite.com/2017/02/17/2017-Google-hosts-持续更新【更新于-2017-02-09】/</id>
+    <published>2017-02-17T13:34:22.000Z</published>
+    <updated>2017-02-17T13:56:27.071Z</updated>
+    
+    <content type="html"><![CDATA[<p>本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br><a id="more"></a></p>
+<p><img src="http://i.imgur.com/iyDcX3H.png" alt=""></p>
+<p>##hosts所在文件夹：<br>    Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts<br>    Android（安卓）系统hosts位于 /etc/hosts<br>    Mac（苹果电脑）系统hosts位于 /etc/hosts<br>    iPhone（iOS）系统hosts位于 /etc/hosts<br>    Linux系统hosts位于 /etc/hosts<br>    绝大多数Unix系统都是在 /etc/hosts<br>你也可以用Notepad++ 自行转换文本编码和换行符格式。</p>
+<p>###注意： 若更新后，hosts 没有立即生效，请重置网络<br>在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。</p>
+<p>###更新于：2017-02-09<br>本次更新：添加一些谷歌跟FB缺失域名</p>
+<p>###注意：<br>Google、Gmail、维基百科、Twitter、Facebook等必须请用https加密方式打开。<br>一般这些网站都是SSL加密链接，如：</p>
+<blockquote>
+<p>谷歌学术：<a href="https://scholar.google.com/" target="_blank" rel="external">https://scholar.google.com/</a><br>谷歌：<a href="https://www.google.com/ncr" target="_blank" rel="external">https://www.google.com/ncr</a><br>谷歌香港：<a href="https://www.google.com.hk/ncr" target="_blank" rel="external">https://www.google.com.hk/ncr</a><br>Twitter：<a href="https://twitter.com/?lang=zh-cn" target="_blank" rel="external">https://twitter.com/?lang=zh-cn</a></p>
+</blockquote>
+<p>另外可能有的地区&amp;网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！<br>建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https<br>它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome<br>下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！</p>
+<p>##hosts下载：<br><a href="https://iiio.io/**download/20170209/" title="点击这里选择下载" target="_blank" rel="external">https://iiio.io/download/20170209/</a><br>解码密码：laod.cn**</p>
+<p>里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。<br>另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）<br>注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</p>
+<p><img src="http://i.imgur.com/7c1SPvn.png" alt=""></p>
+<p>###2017年 历史更新：<br>    20161229-hosts （HTTPS &amp; 2017）修复Twitter、删除OneDrive一些无效条目、添加Google Fiber<br>    20170102-hosts （https &amp; 2017）添加Google BoringSSL、Facebook Link Shim<br>    20170114-hosts （5678 &amp; laod.cn）修复Flickr、添加谷歌一些支持域名<br>    20170120-hosts （laod &amp; 2017）添加Tor、添加谷歌两个项目域名、修復Tumblr视频等…<br>    20170127-hosts  （laodcn &amp; 2017）修复Facebook、Dropbox、Twitter、Google等域名…<br>    20170207-hosts （https &amp; laod.cn）修复Vimeo 以及谷歌一些支持域名等…<br>    20170208-hosts （https &amp; laod.cn）紧急修复推特（Twitter）<br>    20170209-hosts （https &amp; laod.cn）添加一些谷歌跟FB缺失域名</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="翻墙" scheme="http://yoursite.com/categories/%E7%BF%BB%E5%A2%99/"/>
+    
+    
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
   
   <entry>
     <title>我为什么写博客</title>
@@ -74,7 +177,7 @@
     <link href="http://yoursite.com/2017/02/06/Shadowsocks/"/>
     <id>http://yoursite.com/2017/02/06/Shadowsocks/</id>
     <published>2017-02-05T16:00:00.000Z</published>
-    <updated>2017-02-10T07:37:18.253Z</updated>
+    <updated>2017-02-17T13:58:11.308Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
 <h3 id="Windows-下载-C-版"><a href="#Windows-下载-C-版" class="headerlink" title="Windows 下载 C# 版"></a>Windows 下载 C# 版</h3><ul>
@@ -110,59 +213,8 @@
 </ul>
 <p><em>如果有任何疑问请联系咨询我的QQ或是Facebook。（联系方式在about关于页面）
 </em>如无法下载，请在浏览器中打开此网页。</p>
-<h2 id="节点配置"><a href="#节点配置" class="headerlink" title="节点配置"></a>节点配置</h2><pre><code>*Arukas Share Shadowsocks（by Evan）*
-</code></pre><ul>
-<li><em>注意以下IP和端口不定期变化！请注意更新<br>更新时间： 2017年2月5日</em><br>更新说明： 修复避免夜间ping至过高等问题。修复流量无限制问题。</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓:</p>
-<p>  1.{“server”: “153.125.237.178”,”server_port”: 31160,”password”: “123456”,”method”:  rc4-md5”}</p>
-<p><img src="http://i.imgur.com/VuDPVPO.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口</p>
-<p> 2.{“server”: “153.125.234.209”,”server_port”: 31298,”password”: “123456”,”method”: “rc4-md5”</p>
-<p><img src="http://i.imgur.com/RCOHKqu.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口</p>
-<p> 3.{“server”: “153.125.235.208”,”server_port”: 31359,”password”: “123456”,”method”: “rc4-md5”}</p>
-<p><img src="http://i.imgur.com/czdgyl3.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口</p>
-<p> 4.{“server”: “153.125.237.178”,”server_port”: 31844,”password”: “123456”,”method”: “rc4-md5”}</p>
-<p><img src="http://i.imgur.com/ZrNvuXg.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口</p>
-<p> 5.{“server”: “153.125.237.180”,”server_port”: 31976,”password”: “123456”,”method”: “rc4-md5”}<br><img src="http://i.imgur.com/HqAt1Qf.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li>账号信息 ↓↓: 点击查看API接口<br>  6.`{“server”: “153.125.237.173”,”server_port”: 31139,”password”: “123456”,”method”: “rc4-md5”}<br><img src="http://i.imgur.com/2LKhBjF.png" alt=""></li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口</p>
-<p>  7.{“server”: “153.125.237.172”,”server_port”: 31640,”password”: “123456”,”method”: “rc4-md5”}</p>
-<p><img src="http://i.imgur.com/37nyO5K.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口<br>8.{“server”: “153.125.237.179”,”server_port”: 31211,”password”: “123456”,”method”: “rc4-md5”}</p>
-<p><img src="http://i.imgur.com/UNEnMKM.png" alt=""></p>
-</li>
-</ul>
-<ul>
-<li><p>账号信息 ↓↓: 点击查看API接口<br>9.{“server”: “153.125.235.242”,”server_port”: 31014,”password”: “12345”,”method”: “rc4-md5”</p>
-<p><img src="http://i.imgur.com/GitGgQY.png" alt=""></p>
-</li>
-</ul>
-<h2 id="等等…"><a href="#等等…" class="headerlink" title="等等…."></a>等等….</h2>]]></content>
+<h2 id="节点配置"><a href="#节点配置" class="headerlink" title="节点配置"></a>节点配置</h2><pre><code>本页面也转移至shawocks节点信息文章页面。
+</code></pre><h2 id="等等…"><a href="#等等…" class="headerlink" title="等等…."></a>等等….</h2>]]></content>
     
     <summary type="html">
     
