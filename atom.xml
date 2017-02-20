@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ivan&#39;s blog</title>
-  
+  <subtitle>Elegant</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -25,14 +25,62 @@
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
 <p>#节点信息</p>
 <p>##更新时间为： 2017.2.19<br>  更新内容： 调用Arukas API KEY获取IP以及端口等信息。<br>注意以下IP和端口不定期变化！请注意更新。</p>
-<p>###1.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/61f25407-f971-4d91-882d-873f50f30eb7" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.178”,”server_port”:31160,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/JAP6rvt.png" alt=""></p>
-<p>###2.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/43ef2f65-ebb4-4c37-96de-b1a703a3f3f9" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.234.209”,”server_port”:31298,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/dCPTHyF.png" alt=""></p>
-<p>###3.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/99e10ca5-74fe-4ab3-a84c-5545fa644287" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.235.205”,”server_port”:31446,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/YDtsaUc.png" alt=""></p>
-<p>###4.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/07a21d59-2172-4e2b-bf83-1bd267ae084d" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.178”,”server_port”:31844,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/00jPVin.png" alt=""></p>
-<p>###5.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/081448d2-6d61-4a82-80eb-09798ed17e38" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.175”,”server_port”:31079,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/SMj7R9H.png" alt=""></p>
-<p>###6.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/e79414d5-77a2-427a-9f87-e57d682c2a64" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.173”,”server_port”:31139,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/oGpSWr7.png" alt=""></p>
-<p>###7.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/eee5a8dc-1508-4298-9745-b2b801f28dc8" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.172”,”server_port”:31640,”password”:”123456”,”method”:”rc4-md5”}<br><img src="http://i.imgur.com/fs0fPz7.png" alt=""></p>
-<p>###8.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/7b2d9431-4f6a-4ff0-8c62-7d21fa75377f" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.235.242”,”server_port”:31014,”password”:”12345”,”method”:”rc4-md5”,”protocol”:”origin”,”obfs”:”plain”}<br><img src="http://i.imgur.com/Ji5thyI.png" alt=""></p>
+<p>###1.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/61f25407-f971-4d91-882d-873f50f30eb7" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.178”,”server_port”:31160,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/JAP6rvt.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###2.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/43ef2f65-ebb4-4c37-96de-b1a703a3f3f9" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.234.209”,”server_port”:31298,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/dCPTHyF.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###3.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/99e10ca5-74fe-4ab3-a84c-5545fa644287" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.235.205”,”server_port”:31446,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/YDtsaUc.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###4.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/07a21d59-2172-4e2b-bf83-1bd267ae084d" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.178”,”server_port”:31844,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/00jPVin.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###5.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/081448d2-6d61-4a82-80eb-09798ed17e38" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.175”,”server_port”:31079,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/SMj7R9H.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###6.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/e79414d5-77a2-427a-9f87-e57d682c2a64" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.173”,”server_port”:31139,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/oGpSWr7.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###7.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/eee5a8dc-1508-4298-9745-b2b801f28dc8" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.237.172”,”server_port”:31640,”password”:”123456”,”method”:”rc4-md5”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/fs0fPz7.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>###8.账号信息 ↓↓: <a href="https://free-jp-ssr.arukascloud.io/7b2d9431-4f6a-4ff0-8c62-7d21fa75377f" target="_blank" rel="external">点击查看API端口</a><br>{“server”:”153.125.235.242”,”server_port”:31014,”password”:”12345”,”method”:”rc4-md5”,”protocol”:”origin”,”obfs”:”plain”}<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/Ji5thyI.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
 ]]></content>
     
     <summary type="html">
@@ -56,7 +104,13 @@
     <updated>2017-02-18T07:29:48.231Z</updated>
     
     <content type="html"><![CDATA[<p>本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br><a id="more"></a></p>
-<p><img src="http://i.imgur.com/iyDcX3H.png" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/iyDcX3H.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p>##hosts所在文件夹：<br>    Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts<br>    Android（安卓）系统hosts位于 /etc/hosts<br>    Mac（苹果电脑）系统hosts位于 /etc/hosts<br>    iPhone（iOS）系统hosts位于 /etc/hosts<br>    Linux系统hosts位于 /etc/hosts<br>    绝大多数Unix系统都是在 /etc/hosts<br>你也可以用Notepad++ 自行转换文本编码和换行符格式。</p>
 <p>###注意： 若更新后，hosts 没有立即生效，请重置网络<br>在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。</p>
 <p>###更新于：2017-02-09<br>本次更新：添加一些谷歌跟FB缺失域名</p>
@@ -67,7 +121,13 @@
 <p>另外可能有的地区&amp;网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！<br>建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https<br>它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome<br>下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！</p>
 <p>##hosts下载：<br><a href="https://iiio.io/download/20170209/" target="_blank" rel="external">点击这里选择下载</a><br><strong>解码密码：laod.cn</strong></p>
 <p>里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。<br>另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）<br>注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</p>
-<p><img src="http://i.imgur.com/7c1SPvn.png" alt=""></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://i.imgur.com/7c1SPvn.png" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
 <p>###2017年 历史更新：<br>    20161229-hosts （HTTPS &amp; 2017）修复Twitter、删除OneDrive一些无效条目、添加Google Fiber<br>    20170102-hosts （https &amp; 2017）添加Google BoringSSL、Facebook Link Shim<br>    20170114-hosts （5678 &amp; laod.cn）修复Flickr、添加谷歌一些支持域名<br>    20170120-hosts （laod &amp; 2017）添加Tor、添加谷歌两个项目域名、修復Tumblr视频等…<br>    20170127-hosts  （laodcn &amp; 2017）修复Facebook、Dropbox、Twitter、Google等域名…<br>    20170207-hosts （https &amp; laod.cn）修复Vimeo 以及谷歌一些支持域名等…<br>    20170208-hosts （https &amp; laod.cn）紧急修复推特（Twitter）<br>    20170209-hosts （https &amp; laod.cn）添加一些谷歌跟FB缺失域名</p>
 ]]></content>
     
@@ -197,10 +257,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/02/05/hello-world/"/>
-    <id>http://yoursite.com/2017/02/05/hello-world/</id>
-    <published>2017-02-05T10:23:33.750Z</published>
-    <updated>2017-02-06T07:18:44.735Z</updated>
+    <link href="http://yoursite.com/2017/02/06/hello-world/"/>
+    <id>http://yoursite.com/2017/02/06/hello-world/</id>
+    <published>2017-02-05T16:00:00.000Z</published>
+    <updated>2017-02-20T13:03:37.940Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <a id="more"></a>
