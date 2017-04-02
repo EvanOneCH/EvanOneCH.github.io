@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-02T03:39:10.362Z</updated>
+  <updated>2017-04-02T05:12:57.756Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,11 @@
     <link href="http://yoursite.com/2017/04/02/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
     <id>http://yoursite.com/2017/04/02/shawsocks节点信息/</id>
     <published>2017-04-02T13:59:43.000Z</published>
-    <updated>2017-04-02T03:39:10.362Z</updated>
+    <updated>2017-04-02T05:12:57.756Z</updated>
     
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
-<p>#节点信息</p>
-<p>###更新时间为： 2017.4.2<br>  更新内容： 已全部更新为日本樱花服务器<br>注意以下IP和端口不定期变化！请注意更新。</p>
-<p>##节点一</p>
-<ul>
+<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-4-2"><a href="#更新时间为：-2017-4-2" class="headerlink" title="更新时间为： 2017.4.2"></a>更新时间为： 2017.4.2</h3><p>  更新内容： 已全部更新为日本樱花服务器<br>注意以下IP和端口不定期变化！请注意更新。</p>
+<h2 id="节点一"><a href="#节点一" class="headerlink" title="节点一"></a>节点一</h2><ul>
 <li>服务器:153.125.233.237</li>
 <li>远程端口:31734</li>
 <li>密码:78128001</li>
@@ -37,7 +35,7 @@
                     <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/1.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
-            </figure><br>##节点二</li>
+            </figure><h2 id="节点二"><a href="#节点二" class="headerlink" title="节点二"></a>节点二</h2></li>
 <li>服务器:153.125.234.209</li>
 <li>远程端口:31298</li>
 <li>密码:123456</li>
@@ -70,27 +68,25 @@
     <link href="http://yoursite.com/2017/03/01/PPT%E5%88%B6%E4%BD%9C1/"/>
     <id>http://yoursite.com/2017/03/01/PPT制作1/</id>
     <published>2017-03-01T11:04:36.000Z</published>
-    <updated>2017-03-04T11:29:33.175Z</updated>
+    <updated>2017-04-02T05:28:27.085Z</updated>
     
-    <content type="html"><![CDATA[<p>#审美不过关也可以美化PPT的方法<br>所需工具：PPT美化大师（文末有获取方式）</p>
-<p>##工具介绍<br>这是一款 PPT 插件，很多人都安装此插件来帮助自己做 PPT，让 PPT 变得更美！</p>
-<p>##使用方法</p>
-<p>###1.打开PPT<br>安装好此插件以后，在PPT的菜单栏中就会多出「PPT美化大师」这个选项。在页面的右侧，也会有一些PPT美化的选项。两者功能相同，这里以右侧的这些功能为例进行讲解。<br><figure class="image-bubble">
+    <content type="html"><![CDATA[<h1 id="审美不过关也可以美化PPT的方法"><a href="#审美不过关也可以美化PPT的方法" class="headerlink" title="审美不过关也可以美化PPT的方法"></a>审美不过关也可以美化PPT的方法</h1><p>所需工具：PPT美化大师（文末有获取方式）</p>
+<h2 id="工具介绍"><a href="#工具介绍" class="headerlink" title="工具介绍"></a>工具介绍</h2><p>这是一款 PPT 插件，很多人都安装此插件来帮助自己做 PPT，让 PPT 变得更美！</p>
+<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><h3 id="1-打开PPT"><a href="#1-打开PPT" class="headerlink" title="1.打开PPT"></a>1.打开PPT</h3><p>安装好此插件以后，在PPT的菜单栏中就会多出「PPT美化大师」这个选项。在页面的右侧，也会有一些PPT美化的选项。两者功能相同，这里以右侧的这些功能为例进行讲解。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/4LtFDfN.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>###2.功能讲解</p>
-<p>####1）目录<br>点击选项「目录」，可以看到，这里有很多 PPT 模板供我们选择。随意选择一个，点击确定。然后可根据自我的需求进行封面页、目录页的设置。<br><figure class="image-bubble">
+<h3 id="2-功能讲解"><a href="#2-功能讲解" class="headerlink" title="2.功能讲解"></a>2.功能讲解</h3><h4 id="1）目录"><a href="#1）目录" class="headerlink" title="1）目录"></a>1）目录</h4><p>点击选项「目录」，可以看到，这里有很多 PPT 模板供我们选择。随意选择一个，点击确定。然后可根据自我的需求进行封面页、目录页的设置。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/YapTBD4.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>####2）魔法换装<br>点击「魔法换装」，可更换 PPT 的部分元素。<br><figure class="image-bubble">
+<h4 id="2）魔法换装"><a href="#2）魔法换装" class="headerlink" title="2）魔法换装"></a>2）魔法换装</h4><p>点击「魔法换装」，可更换 PPT 的部分元素。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/hZA538P.jpg" alt="" title="">
@@ -103,49 +99,49 @@
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>####3）更换背景<br>如果你对现有背景不满意，可以点击此选项，这里有上百页的模板供你选择。无论你是要高冷报告范儿，还是要幽默逗比版本，这里都有。<br><figure class="image-bubble">
+<h4 id="3）更换背景"><a href="#3）更换背景" class="headerlink" title="3）更换背景"></a>3）更换背景</h4><p>如果你对现有背景不满意，可以点击此选项，这里有上百页的模板供你选择。无论你是要高冷报告范儿，还是要幽默逗比版本，这里都有。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/kvtaphH.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>####4）范文<br>如果在做 PPT 的时候，文案抓耳挠腮都没有想出来，不如看看这里的「范文」。有节日祝福，也有求职简历，大家可按需选择<br><figure class="image-bubble">
+<h4 id="4）范文"><a href="#4）范文" class="headerlink" title="4）范文"></a>4）范文</h4><p>如果在做 PPT 的时候，文案抓耳挠腮都没有想出来，不如看看这里的「范文」。有节日祝福，也有求职简历，大家可按需选择<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/4YQxWP2.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>####5）画册<br>在这个选项中，我们可以利用上面的模板，做一段 MV。如果你需要的是 “团队” 类型的画册，只需要在上方的搜索框中输入 “团队” 二字即可。<br><figure class="image-bubble">
+<h4 id="5）画册"><a href="#5）画册" class="headerlink" title="5）画册"></a>5）画册</h4><p>在这个选项中，我们可以利用上面的模板，做一段 MV。如果你需要的是 “团队” 类型的画册，只需要在上方的搜索框中输入 “团队” 二字即可。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/T3Eo1xq.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>####6）形状<br>这里有高达2000多种形状供我们进行选择。当然，你也可以在搜索框中搜索你想要的形状。如：箭头。然后选择右下角的加号，即可添加你想要的符号。<br><figure class="image-bubble">
+<h4 id="6）形状"><a href="#6）形状" class="headerlink" title="6）形状"></a>6）形状</h4><p>这里有高达2000多种形状供我们进行选择。当然，你也可以在搜索框中搜索你想要的形状。如：箭头。然后选择右下角的加号，即可添加你想要的符号。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/YS85jWd.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>##导出为图片<br>如果你想要把做的PPT导出为图片形式，只需要点击菜单栏中的：“美化大师” –&gt; “导出” –&gt;“多页拼图”–&gt; “全部幻灯片”，即可将 PPT 导出为图片格式的文件。<br><figure class="image-bubble">
+<h2 id="导出为图片"><a href="#导出为图片" class="headerlink" title="导出为图片"></a>导出为图片</h2><p>如果你想要把做的PPT导出为图片形式，只需要点击菜单栏中的：“美化大师” –&gt; “导出” –&gt;“多页拼图”–&gt; “全部幻灯片”，即可将 PPT 导出为图片格式的文件。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/CNgbxsT.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>##只读模式<br>如果你不想要别人随意更改你的 PPT，点击 “美化大师” –&gt; “只读”，就可以设定密码，也可以点击 “无密码” 格式。这样操作之后，他人就不能随意修改我们的 PPT 了！选择 “只读模式” –&gt; “解锁”，即可对此 PPT 的只读模式进行解锁。<br><figure class="image-bubble">
+<h2 id="只读模式"><a href="#只读模式" class="headerlink" title="只读模式"></a>只读模式</h2><p>如果你不想要别人随意更改你的 PPT，点击 “美化大师” –&gt; “只读”，就可以设定密码，也可以点击 “无密码” 格式。这样操作之后，他人就不能随意修改我们的 PPT 了！选择 “只读模式” –&gt; “解锁”，即可对此 PPT 的只读模式进行解锁。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://i.imgur.com/vAp8d4v.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<p>#下载<br><a href="http://meihua.docer.com/" target="_blank" rel="external">PPT美化大师</a></p>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p><a href="http://meihua.docer.com/" target="_blank" rel="external">PPT美化大师</a></p>
 <p>PPT 美化大师，应该是人手一份的存在。同意的请在下方评论区留言。</p>
 ]]></content>
     
@@ -167,7 +163,7 @@
     <link href="http://yoursite.com/2017/02/17/2017-Google-hosts-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E3%80%90%E6%9B%B4%E6%96%B0%E4%BA%8E-2017-02-09%E3%80%91/"/>
     <id>http://yoursite.com/2017/02/17/2017-Google-hosts-持续更新【更新于-2017-02-09】/</id>
     <published>2017-02-17T13:34:22.000Z</published>
-    <updated>2017-03-04T11:38:47.177Z</updated>
+    <updated>2017-04-02T05:34:27.947Z</updated>
     
     <content type="html"><![CDATA[<p>本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br><a id="more"></a></p>
 <figure class="image-bubble">
@@ -177,25 +173,29 @@
                 </div>
                 <div class="image-caption"></div>
             </figure>
-<p>##hosts所在文件夹：<br>    Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts<br>    Android（安卓）系统hosts位于 /etc/hosts<br>    Mac（苹果电脑）系统hosts位于 /etc/hosts<br>    iPhone（iOS）系统hosts位于 /etc/hosts<br>    Linux系统hosts位于 /etc/hosts<br>    绝大多数Unix系统都是在 /etc/hosts<br>你也可以用Notepad++ 自行转换文本编码和换行符格式。</p>
-<p>###注意： 若更新后，hosts 没有立即生效，请重置网络<br>在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。</p>
-<p>###更新于：2017-02-09<br>本次更新：添加一些谷歌跟FB缺失域名</p>
-<p>###注意：<br>Google、Gmail、维基百科、Twitter、Facebook等必须请用https加密方式打开。<br>一般这些网站都是SSL加密链接，如：</p>
+<h2 id="hosts所在文件夹："><a href="#hosts所在文件夹：" class="headerlink" title="hosts所在文件夹："></a>hosts所在文件夹：</h2><pre><code>Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts
+Android（安卓）系统hosts位于 /etc/hosts
+Mac（苹果电脑）系统hosts位于 /etc/hosts
+iPhone（iOS）系统hosts位于 /etc/hosts
+Linux系统hosts位于 /etc/hosts
+绝大多数Unix系统都是在 /etc/hosts
+</code></pre><p>你也可以用Notepad++ 自行转换文本编码和换行符格式。</p>
+<h3 id="注意：-若更新后，hosts-没有立即生效，请重置网络"><a href="#注意：-若更新后，hosts-没有立即生效，请重置网络" class="headerlink" title="注意： 若更新后，hosts 没有立即生效，请重置网络"></a>注意： 若更新后，hosts 没有立即生效，请重置网络</h3><p>在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。</p>
+<h3 id="更新于：2017-02-09"><a href="#更新于：2017-02-09" class="headerlink" title="更新于：2017-02-09"></a>更新于：2017-02-09</h3><p>本次更新：添加一些谷歌跟FB缺失域名</p>
+<h3 id="注意："><a href="#注意：" class="headerlink" title="注意："></a>注意：</h3><p>Google、Gmail、维基百科、Twitter、Facebook等必须请用https加密方式打开。<br>一般这些网站都是SSL加密链接，如：</p>
 <blockquote>
 <p>谷歌学术：<a href="https://scholar.google.com/" target="_blank" rel="external">https://scholar.google.com/</a><br>谷歌：<a href="https://www.google.com/ncr" target="_blank" rel="external">https://www.google.com/ncr</a><br>谷歌香港：<a href="https://www.google.com.hk/ncr" target="_blank" rel="external">https://www.google.com.hk/ncr</a><br>Twitter：<a href="https://twitter.com/?lang=zh-cn" target="_blank" rel="external">https://twitter.com/?lang=zh-cn</a></p>
 </blockquote>
 <p>另外可能有的地区&amp;网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！<br>建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https<br>它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome<br>下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！</p>
-<p>##hosts下载：</p>
-<p>里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。<br>另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）<br>注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</p>
+<h2 id="hosts下载："><a href="#hosts下载：" class="headerlink" title="hosts下载："></a>hosts下载：</h2><p>里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。<br>另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）<br>注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</p>
 <p>里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。<br>另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）<br>注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</p>
 <p><a href="https://iiio.io/download/20170302/" target="_blank" rel="external">点击此处进行选择下载</a></p>
-<p>###修改hosts后生效的方法：</p>
-<p>####Windows<br>开始 -&gt; 运行 -&gt; 输入cmd -&gt; 在CMD窗口输入<br>ipconfig /flushdns</p>
-<p>####Linux<br>终端输入<br>sudo rcnscd restart</p>
-<p>####对于systemd发行版，请使用命令<br>sudo systemctl restart NetworkManager<br>如果不懂请都尝试下</p>
-<p>####Mac OS X终端输入<br>sudo killall -HUP mDNSResponder</p>
-<p>####Android<br>开启飞行模式 -&gt; 关闭飞行模式</p>
-<p>####通用方法<br>拔网线(断网) -&gt; 插网线(重新连接网络)<br>如不行请清空浏览器缓存（建议不要使用国产浏览器，请使用谷歌Chrome浏览器或我推荐的Via浏览器）</p>
+<h3 id="修改hosts后生效的方法："><a href="#修改hosts后生效的方法：" class="headerlink" title="修改hosts后生效的方法："></a>修改hosts后生效的方法：</h3><h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><p>开始 -&gt; 运行 -&gt; 输入cmd -&gt; 在CMD窗口输入<br>ipconfig /flushdns</p>
+<h4 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h4><p>终端输入<br>sudo rcnscd restart</p>
+<h4 id="对于systemd发行版，请使用命令"><a href="#对于systemd发行版，请使用命令" class="headerlink" title="对于systemd发行版，请使用命令"></a>对于systemd发行版，请使用命令</h4><p>sudo systemctl restart NetworkManager<br>如果不懂请都尝试下</p>
+<h4 id="Mac-OS-X终端输入"><a href="#Mac-OS-X终端输入" class="headerlink" title="Mac OS X终端输入"></a>Mac OS X终端输入</h4><p>sudo killall -HUP mDNSResponder</p>
+<h4 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h4><p>开启飞行模式 -&gt; 关闭飞行模式</p>
+<h4 id="通用方法"><a href="#通用方法" class="headerlink" title="通用方法"></a>通用方法</h4><p>拔网线(断网) -&gt; 插网线(重新连接网络)<br>如不行请清空浏览器缓存（建议不要使用国产浏览器，请使用谷歌Chrome浏览器或我推荐的Via浏览器）</p>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
@@ -203,8 +203,22 @@
                 </div>
                 <div class="image-caption"></div>
             </figure>
-<p>###2017年 历史更新：<br>    20161229-hosts （HTTPS &amp; 2017）修复Twitter、删除OneDrive一些无效条目、添加Google Fiber<br>    20170102-hosts （https &amp; 2017）添加Google BoringSSL、Facebook Link Shim<br>    20170114-hosts （5678 &amp; laod.cn）修复Flickr、添加谷歌一些支持域名<br>    20170120-hosts （laod &amp; 2017）添加Tor、添加谷歌两个项目域名、修復Tumblr视频等…<br>    20170127-hosts  （laodcn &amp; 2017）修复Facebook、Dropbox、Twitter、Google等域名…<br>    20170207-hosts （https &amp; laod.cn）修复Vimeo 以及谷歌一些支持域名等…<br>    20170208-hosts （https &amp; laod.cn）紧急修复推特（Twitter）<br>    20170209-hosts （https &amp; laod.cn）添加一些谷歌跟FB缺失域名<br>    20170221-hosts  （修复Yahoo、Flickr、Tumblr、添加Line、谷歌支持域名等…）<br>    20170302-hosts （LAOD &amp; GO）添加Kobo、修复Typo、修复&amp;添加谷歌支持域名等…</p>
-]]></content>
+<h3 id="2017年-历史更新："><a href="#2017年-历史更新：" class="headerlink" title="2017年 历史更新："></a>2017年 历史更新：</h3><pre><code>20161229-hosts （HTTPS &amp; 2017）修复Twitter、删除OneDrive一些无效条目、添加Google Fiber
+20170102-hosts （https &amp; 2017）添加Google BoringSSL、Facebook Link Shim
+20170114-hosts （5678 &amp; laod.cn）修复Flickr、添加谷歌一些支持域名
+20170120-hosts （laod &amp; 2017）添加Tor、添加谷歌两个项目域名、修復Tumblr视频等…
+20170127-hosts  （laodcn &amp; 2017）修复Facebook、Dropbox、Twitter、Google等域名…
+20170207-hosts （https &amp; laod.cn）修复Vimeo 以及谷歌一些支持域名等…
+20170208-hosts （https &amp; laod.cn）紧急修复推特（Twitter）
+20170209-hosts （https &amp; laod.cn）添加一些谷歌跟FB缺失域名
+20170221-hosts  （修复Yahoo、Flickr、Tumblr、添加Line、谷歌支持域名等…）
+20170302-hosts （LAOD &amp; GO）添加Kobo、修复Typo、修复&amp;添加谷歌支持域名等…
+20170302-hosts （LAOD &amp; GO）添加Kobo、修复Typo、修复&amp;添加谷歌支持域名等...
+201070310-hosts（laod &amp; tianchaov5）修复Twitter、W3schools、Pinterest
+20170315-hosts （laod &amp; 315）修复Flickr、添加谷歌支持域名、Telegram域名
+20170324-hosts （laod &amp; laod.org）修复Twitter、添加一些谷歌服务域名、完善Pinterest域名
+20170328-hosts （https &amp; laod）修复TensorFlow、Twitter、Facebook、Chrome更新&amp;插件问题、添加archive测试版、谷歌域名
+</code></pre>]]></content>
     
     <summary type="html">
     
@@ -278,15 +292,15 @@
     <link href="http://yoursite.com/2017/02/06/Shadowsocks/"/>
     <id>http://yoursite.com/2017/02/06/Shadowsocks/</id>
     <published>2017-02-05T16:00:00.000Z</published>
-    <updated>2017-02-17T13:58:11.308Z</updated>
+    <updated>2017-04-02T05:27:28.825Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
 <h3 id="Windows-下载-C-版"><a href="#Windows-下载-C-版" class="headerlink" title="Windows 下载 C# 版"></a>Windows 下载 C# 版</h3><ul>
 <li><p>下载<a href="https://www.freefan.cc/ssr-download/ssr-win.7z" target="_blank" rel="external">这个</a>， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。</p>
 </li>
-<li><p>server后面的数字在 服务器Ip 内，sever-port后面的数字填在 服务器端口 内，method指的是加密，按指定的在软件内选择即可。其余不用理会。</p>
+<li><p>服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。</p>
 </li>
-<li><p>以上信息需与下方节点信息一一对应，否者很可能连接不上</p>
+<li><p>以上信息需与下方节点信息一一对应，否者很可能无法上网。</p>
 </li>
 <li><p>然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。</p>
 </li>
@@ -303,18 +317,17 @@
 <h3 id="Android下载"><a href="#Android下载" class="headerlink" title="Android下载"></a>Android下载</h3><ul>
 <li><p>Android 版，点击<a href="https://www.freefan.cc/ssr-download/ssr-android.apk" target="_blank" rel="external">这个</a> 安装，下方有两种安装方式。</p>
 </li>
-<li><p>方法一： 配置名称随便写，服务器填写下方节点信息中的server后面的数字，远程端口填写下方节点信息中sever—port后面的数字，密码填写下方节点信息对应的password，加密方法在下方节点信息中method后面，直接选择即可。其余不需理会。</p>
+<li><p>方法一： 配置名称随便写，服务器填写节点信息中的服务器后面的数字，远程端口填写下方节点信息中远程端口后面的数字，密码填写下方节点信息对应的密码后面的数字，加密方法在下方节点信息中加密方式后面，直接选择即可。其余不需理会。</p>
 </li>
-<li>以上信息需与下方信息一一对应，否者很可能连接不上。</li>
+<li>以上信息切记需与下方信息一一对应，否者很可能连接后无法上网。</li>
 <li>添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。</li>
 </ul>
 <ul>
-<li>方法二：点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。</li>
-<li>添加完节点，然后右上角点击粉色小飞机开启就可以上网了</li>
+<li>方法二（推荐）：点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。</li>
+<li>扫描二维码后，选择扫码之后新增的一串数字的那个，然后右上角点击粉色小飞机开启就可以翻越城墙，探索新世界了。</li>
 </ul>
-<p><em>如果有任何疑问请联系咨询我的QQ或是Facebook。（联系方式在about关于页面）
-</em>如无法下载，请在浏览器中打开此网页。</p>
-<h2 id="节点配置"><a href="#节点配置" class="headerlink" title="节点配置"></a>节点配置</h2><pre><code>本页面也转移至shawocks节点信息文章页面。
+<h4 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h4><p><strong>如果有任何疑问请联系咨询我的QQ或是Facebook或是电子邮箱。<br>如无法下载软件，请在浏览器中打开此网页。</strong></p>
+<h2 id="节点配置"><a href="#节点配置" class="headerlink" title="节点配置"></a>节点配置</h2><pre><code>节点信息也转移至·shawocks节点信息·文章页面。[点击我传送](http://imzyf.xyz/2017/04/02/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/)
 </code></pre><h2 id="等等…"><a href="#等等…" class="headerlink" title="等等…."></a>等等….</h2>]]></content>
     
     <summary type="html">
