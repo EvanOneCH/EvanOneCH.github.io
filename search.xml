@@ -3,9 +3,9 @@
   
     
     <entry>
-      <title><![CDATA[shawsocks节点信息持续更新【更新于-2017-04-02】]]></title>
+      <title><![CDATA[shawsocks节点信息【更新于-2017-05-13】]]></title>
       <url>%2F2017%2F04%2F02%2Fshawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF%2F</url>
-      <content type="text"><![CDATA[本页面为节点信息，具体使用方法请点击这里 节点信息更新时间为： 2017.4.2 更新内容： 已全部更新为日本樱花服务器注意以下IP和端口不定期变化！请注意更新。 节点一 服务器:153.125.233.237 远程端口:31734 密码:78128001 加密方式:aes-256-cfb 二维码如下 节点二 服务器:153.125.234.209 远程端口:31298 密码:123456 加密方式:rc4-md5 二维码如下]]></content>
+      <content type="text"><![CDATA[本页面为节点信息，具体使用方法请点击这里 节点信息更新时间为： 2017.5.13 更新内容： 全新的服务器，延迟更小，速度更快，欢迎您的体验。 节点一 二维码如下 SSR链接： ssr://MTY5LjQ0LjAuMjQ1Ojg5ODk6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1haaGJqWTJOalkvP29iZnNwYXJhbT0mcmVtYXJrcz01NEs1NVllNzZMLVo2WWVNVWpIdnZJaDNkM2N1YVcxNmVXWXVlSGw2Nzd5Sg]]></content>
     </entry>
 
     
@@ -33,14 +33,7 @@
     <entry>
       <title><![CDATA[Shadowsocks-让世界触手可及]]></title>
       <url>%2F2017%2F02%2F06%2FShadowsocks%2F</url>
-      <content type="text"><![CDATA[使用方法这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。 Windows 下载 C# 版 下载这个， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。 服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。 以上信息需与下方节点信息一一对应，否者很可能无法上网。 然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。 Mac OS X 下载这个 安装， 然后下载这个 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。 laptop_mac iOS ios官方苹果商店 强烈推荐下载Shadowrocket，就可以批量添加节点。 Android下载 Android 版，点击这个 安装，下方有两种安装方式。 方法一： 配置名称随便写，服务器填写节点信息中的服务器后面的数字，远程端口填写下方节点信息中远程端口后面的数字，密码填写下方节点信息对应的密码后面的数字，加密方法在下方节点信息中加密方式后面，直接选择即可。其余不需理会。 以上信息切记需与下方信息一一对应，否者很可能连接后无法上网。 添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。 方法二（推荐）：点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。 扫描二维码后，选择扫码之后新增的一串数字的那个，然后右上角点击粉色小飞机开启就可以翻越城墙，探索新世界了。 注意如果有任何疑问请联系咨询我的QQ或是Facebook或是电子邮箱。如无法下载软件，请在浏览器中打开此网页。 节点配置节点信息也转移至·shawocks节点信息·文章页面。[点击我传送](http://imzyf.xyz/2017/04/02/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/) 等等….]]></content>
-    </entry>
-
-    
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>%2F2017%2F02%2F06%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <content type="text"><![CDATA[使用方法这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。 Windows 下载 C# 版 下载这个， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。 服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。 以上信息需与下方节点信息一一对应，否者很可能无法上网。 然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。 Mac OS X 下载这个 安装， 然后下载这个 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。 laptop_mac iOS ios官方苹果商店 强烈推荐下载Shadowrocket，就可以批量添加节点。 Android下载 Android 版，点击这个 安装，下方有两种安装方式。 方法一： 配置名称随便写，服务器填写节点信息中的服务器后面的数字，远程端口填写下方节点信息中远程端口后面的数字，密码填写下方节点信息对应的密码后面的数字，加密方法在下方节点信息中加密方式后面，直接选择即可。其余不需理会。 以上信息切记需与下方信息一一对应，否者很可能连接后无法上网。 添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。 方法二（推荐）：点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。 扫描二维码后，选择扫码之后新增的一串数字的那个，然后右上角点击粉色小飞机开启就可以翻越城墙，探索新世界了。 注意如果有任何疑问请联系咨询我的QQ或是Facebook或是电子邮箱。如无法下载软件，请在浏览器中打开此网页。 节点配置 节点信息也转移至·shawocks节点信息·文章页面点击我传送 等等….]]></content>
     </entry>
 
     
