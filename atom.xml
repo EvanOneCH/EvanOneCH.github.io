@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-13T02:52:04.043Z</updated>
+  <updated>2017-05-29T08:43:32.852Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,93 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新及时的Hosts源以及Hosts管理工具</title>
+    <link href="http://yoursite.com/2017/05/29/hostfq1/"/>
+    <id>http://yoursite.com/2017/05/29/hostfq1/</id>
+    <published>2017-05-29T08:40:27.000Z</published>
+    <updated>2017-05-29T08:43:32.852Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/host1.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>Hosts其实它存放的域名和其对应的 IP 地址。当我们在浏览器在地址栏中输入网址并回车，系统往往会首先检查本地的 HOSTS文件，看是否已经有相应的域名与 IP 地址的对应关系，如果有就会直接采用，如果没有，那么就得由DNS服务器进行域名解析获取IP。</p>
+<p>伟大的G~F~!M针对某些域名进行DNS污染，所以使我们无法解析到一个“正常”的IP地址。所以……</p>
+<p>本文介绍几个开源的且更新比较及时的Hosts，大家可以关注一下。<br><a id="more"></a></p>
+<p>如何选择一个Hosts呢？</p>
+<ul>
+<li>更新频率</li>
+<li>使用的用户数量</li>
+</ul>
+<h1 id="活跃Hosts项目"><a href="#活跃Hosts项目" class="headerlink" title="活跃Hosts项目"></a>活跃Hosts项目</h1><h2 id="racaljk-hosts"><a href="#racaljk-hosts" class="headerlink" title="racaljk/hosts"></a>racaljk/hosts</h2><p>目前更新频率较高，关注人也多。正是因为用的人多吧，所以IP坏的也快。</p>
+<p><strong>开源地址</strong>：<a href="https://github.com/racaljk/hosts" target="_blank" rel="external">https://github.com/racaljk/hosts</a></p>
+<p><strong>Hosts地址</strong>：<code>https://raw.githubusercontent.com/racaljk/hosts/master/hosts</code></p>
+<h2 id="sy618-hosts"><a href="#sy618-hosts" class="headerlink" title="sy618/hosts"></a>sy618/hosts</h2><p>提供FQ和屏蔽广告</p>
+<p><strong>开源地址</strong>：<a href="https://github.com/sy618/hosts" target="_blank" rel="external">https://github.com/sy618/hosts</a></p>
+<p><strong>Hosts地址</strong>：</p>
+<pre><code>https://raw.githubusercontent.com/sy618/hosts/master/FQ
+
+https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
+</code></pre><h2 id="lennylxx-ipv6-hosts"><a href="#lennylxx-ipv6-hosts" class="headerlink" title="lennylxx/ipv6-hosts"></a>lennylxx/ipv6-hosts</h2><p>特点很明显IPV6嘛</p>
+<p><strong>开源地址</strong>：<a href="https://github.com/lennylxx/ipv6-hosts" target="_blank" rel="external">https://github.com/lennylxx/ipv6-hosts</a></p>
+<p><strong>Hosts地址</strong>：<code>https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts</code></p>
+<h2 id="wangchunming-2017hosts"><a href="#wangchunming-2017hosts" class="headerlink" title="wangchunming/2017hosts"></a>wangchunming/2017hosts</h2><p>可看YouTube，PC和手机不同的Hosts</p>
+<p><strong>开源地址</strong>：<a href="https://github.com/wangchunming/2017hosts" target="_blank" rel="external">https://github.com/wangchunming/2017hosts</a></p>
+<p><strong>Hosts地址</strong>：<br>    <a href="https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc" target="_blank" rel="external">https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc</a></p>
+<pre><code>https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-mobile
+</code></pre><h2 id="老D的Hosts"><a href="#老D的Hosts" class="headerlink" title="老D的Hosts"></a>老D的Hosts</h2><p>名气比较大，分享的方式百度网盘+文件加密</p>
+<p><strong>访问地址</strong>：<a href="https://laod.cn/hosts/2017-google-hosts.html" target="_blank" rel="external">https://laod.cn/hosts/2017-google-hosts.html</a></p>
+<h1 id="修改Hosts"><a href="#修改Hosts" class="headerlink" title="修改Hosts"></a>修改Hosts</h1><h2 id="手动修改更新"><a href="#手动修改更新" class="headerlink" title="手动修改更新"></a>手动修改更新</h2><p>请参考历史文章 &gt;&gt;&gt;&gt; 如何修改HOSTS(全系统平台)</p>
+<h2 id="利用软件更新"><a href="#利用软件更新" class="headerlink" title="利用软件更新"></a>利用软件更新</h2><h3 id="1）SwitchHosts-不错的软件，支持MAC、Windows、Linux"><a href="#1）SwitchHosts-不错的软件，支持MAC、Windows、Linux" class="headerlink" title="1）SwitchHosts 不错的软件，支持MAC、Windows、Linux"></a>1）SwitchHosts 不错的软件，支持MAC、Windows、Linux</h3><p>开源地址：<a href="https://github.com/oldj/SwitchHosts" target="_blank" rel="external">https://github.com/oldj/SwitchHosts</a></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/host2.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="2）Gas-Mask-支持MAC系统"><a href="#2）Gas-Mask-支持MAC系统" class="headerlink" title="2）Gas Mask 支持MAC系统"></a>2）Gas Mask 支持MAC系统</h3><p>访问地址：<a href="http://www.macupdate.com/app/mac/29949/gas-mask/" target="_blank" rel="external">http://www.macupdate.com/app/mac/29949/gas-mask/</a></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/host%203.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h3 id="3）Hozz也是一款不错的管理工具。支持MAC-、Windows、Linux"><a href="#3）Hozz也是一款不错的管理工具。支持MAC-、Windows、Linux" class="headerlink" title="3）Hozz也是一款不错的管理工具。支持MAC 、Windows、Linux"></a>3）Hozz也是一款不错的管理工具。支持MAC 、Windows、Linux</h3><p>开源地址：<a href="https://github.com/ppoffice/Hozz" target="_blank" rel="external">https://github.com/ppoffice/Hozz</a></p>
+<p>下载地址：<a href="https://github.com/ppoffice/Hozz/releases" target="_blank" rel="external">https://github.com/ppoffice/Hozz/releases</a></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/host5.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                    &lt;img src=&quot;https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/host1.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;image-caption&quot;&gt;&lt;/div&gt;
+            &lt;/figure&gt;
+&lt;p&gt;Hosts其实它存放的域名和其对应的 IP 地址。当我们在浏览器在地址栏中输入网址并回车，系统往往会首先检查本地的 HOSTS文件，看是否已经有相应的域名与 IP 地址的对应关系，如果有就会直接采用，如果没有，那么就得由DNS服务器进行域名解析获取IP。&lt;/p&gt;
+&lt;p&gt;伟大的G~F~!M针对某些域名进行DNS污染，所以使我们无法解析到一个“正常”的IP地址。所以……&lt;/p&gt;
+&lt;p&gt;本文介绍几个开源的且更新比较及时的Hosts，大家可以关注一下。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="host翻墙" scheme="http://yoursite.com/tags/host%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
   
   <entry>
     <title>shawsocks节点信息【更新于-2017-05-13】</title>

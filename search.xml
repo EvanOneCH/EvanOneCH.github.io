@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[更新及时的Hosts源以及Hosts管理工具]]></title>
+      <url>%2F2017%2F05%2F29%2Fhostfq1%2F</url>
+      <content type="text"><![CDATA[Hosts其实它存放的域名和其对应的 IP 地址。当我们在浏览器在地址栏中输入网址并回车，系统往往会首先检查本地的 HOSTS文件，看是否已经有相应的域名与 IP 地址的对应关系，如果有就会直接采用，如果没有，那么就得由DNS服务器进行域名解析获取IP。 伟大的G~F~!M针对某些域名进行DNS污染，所以使我们无法解析到一个“正常”的IP地址。所以…… 本文介绍几个开源的且更新比较及时的Hosts，大家可以关注一下。 如何选择一个Hosts呢？ 更新频率 使用的用户数量 活跃Hosts项目racaljk/hosts目前更新频率较高，关注人也多。正是因为用的人多吧，所以IP坏的也快。 开源地址：https://github.com/racaljk/hosts Hosts地址：https://raw.githubusercontent.com/racaljk/hosts/master/hosts sy618/hosts提供FQ和屏蔽广告 开源地址：https://github.com/sy618/hosts Hosts地址： https://raw.githubusercontent.com/sy618/hosts/master/FQ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ lennylxx/ipv6-hosts特点很明显IPV6嘛 开源地址：https://github.com/lennylxx/ipv6-hosts Hosts地址：https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts wangchunming/2017hosts可看YouTube，PC和手机不同的Hosts 开源地址：https://github.com/wangchunming/2017hosts Hosts地址： https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-mobile 老D的Hosts名气比较大，分享的方式百度网盘+文件加密 访问地址：https://laod.cn/hosts/2017-google-hosts.html 修改Hosts手动修改更新请参考历史文章 &gt;&gt;&gt;&gt; 如何修改HOSTS(全系统平台) 利用软件更新1）SwitchHosts 不错的软件，支持MAC、Windows、Linux开源地址：https://github.com/oldj/SwitchHosts 2）Gas Mask 支持MAC系统访问地址：http://www.macupdate.com/app/mac/29949/gas-mask/ 3）Hozz也是一款不错的管理工具。支持MAC 、Windows、Linux开源地址：https://github.com/ppoffice/Hozz 下载地址：https://github.com/ppoffice/Hozz/releases]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[shawsocks节点信息【更新于-2017-05-13】]]></title>
       <url>%2F2017%2F04%2F02%2Fshawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF%2F</url>
       <content type="text"><![CDATA[本页面为节点信息，具体使用方法请点击这里 节点信息更新时间为： 2017.5.13 更新内容： 全新的服务器，延迟更小，速度更快，欢迎您的体验。 节点一 二维码如下 SSR链接： ssr://MTY5LjQ0LjAuMjQ1Ojg5ODk6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1haaGJqWTJOalkvP29iZnNwYXJhbT0mcmVtYXJrcz01NEs1NVllNzZMLVo2WWVNVWpIdnZJaDNkM2N1YVcxNmVXWXVlSGw2Nzd5Sg]]></content>
