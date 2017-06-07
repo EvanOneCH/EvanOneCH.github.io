@@ -107,11 +107,38 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/04/02/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
     <id>http://yoursite.com/2017/04/02/shawsocks节点信息/</id>
     <published>2017-04-02T13:59:43.000Z</published>
-    <updated>2017-05-13T02:52:04.043Z</updated>
+    <updated>2017-06-07T11:31:00.913Z</updated>
     
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
-<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-5-13"><a href="#更新时间为：-2017-5-13" class="headerlink" title="更新时间为： 2017.5.13"></a>更新时间为： 2017.5.13</h3><p>  更新内容： 全新的服务器，延迟更小，速度更快，欢迎您的体验。  </p>
-<h2 id="节点一"><a href="#节点一" class="headerlink" title="节点一"></a>节点一</h2><ul>
+<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-6-6"><a href="#更新时间为：-2017-6-6" class="headerlink" title="更新时间为： 2017.6.6"></a>更新时间为： 2017.6.6</h3><p>  更新内容： 全新的服务器，延迟更小，速度更快，欢迎您的体验。<br>  近期上线200M香港节点，敬请期待。<br>  注意： 以下节点的二维码适用于安卓原版ssr客户端</p>
+<p>##节点一（美国加州）</p>
+<ul>
+<li>二维码如下<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/lajizhanss1.PNG" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></li>
+<li>SSR链接： <code>ssr://MTM4LjY4LjIyNi4xNDQ6MTA4Mzc6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6VG10QmJVVnMvP29iZnNwYXJhbT0mcmVtYXJrcz01WjZENVp5LTU2dVo=</code><br>##节点二（洛杉矶节点-ipv4/ipv6双线）</li>
+<li>二维码如下<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/doubledouss1.PNG" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></li>
+<li>SSR链接： <code>ssr://bG9zZnJlZS5kb3VibGVkb3UudG9wOjE0ODMxOm9yaWdpbjpyYzQtbWQ1OnBsYWluOk9EaDRVWHBxLz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yNklxQzU0SzVMV2x3ZGpRdmFYQjJOdVdQak9lNnZ5QQ</code></li>
+<li>服务器地址：losfree.doubledou.top  </li>
+<li>服务器端口：14831</li>
+<li>加密方式：rc4-md5</li>
+<li>密码：88xQzj</li>
+<li>协议：origin</li>
+<li>协议参数：</li>
+<li>混淆：plain</li>
+<li>混淆参数：</li>
+</ul>
+<h2 id="节点三"><a href="#节点三" class="headerlink" title="节点三"></a>节点三</h2><ul>
 <li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/IBMr1.PNG" alt=""></li>
 <li>SSR链接：  <code>ssr://MTY5LjQ0LjAuMjQ1Ojg5ODk6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1haaGJqWTJOalkvP29iZnNwYXJhbT0mcmVtYXJrcz01NEs1NVllNzZMLVo2WWVNVWpIdnZJaDNkM2N1YVcxNmVXWXVlSGw2Nzd5Sg</code></li>
 </ul>
