@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏]]></title>
+      <url>%2F2017%2F07%2F06%2Fsstap1%2F</url>
+      <content type="text"><![CDATA[SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。 SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。SSTap能在网络层拦截所有连接并转发给HTTP，SOCKS4，5，SHADOWSOCKS代理.而无需对被代理的应用程序做任何修改或设置。它能同时转发TCP, UDP数据包。它非常适合于游戏玩家使用。享受你的游戏时光！请使用SSTap！ 官方网址https://www.sockscap64.com/sstap 安装演示安装过程比较简单，主要就是安装的时候，会弹出安装一个虚拟网卡（见图2，点击【安装】）。 操作演示1）启动SSTap软件，如图点击 【+】 2）填写SS或者SSR相关信息。点击【保存】 注意：如果你配置的是SS， 协议请选择 【origin】，混淆请选择【plain】如图填写。 3） 如图可见节点IP的地区已经延迟。 点击【连接】即可启动代理了。 4）稍等一会，即可连接成功！！ 然后就可以愉快的玩耍了。]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[更新及时的Hosts源以及Hosts管理工具]]></title>
       <url>%2F2017%2F05%2F29%2Fhostfq1%2F</url>
       <content type="text"><![CDATA[Hosts其实它存放的域名和其对应的 IP 地址。当我们在浏览器在地址栏中输入网址并回车，系统往往会首先检查本地的 HOSTS文件，看是否已经有相应的域名与 IP 地址的对应关系，如果有就会直接采用，如果没有，那么就得由DNS服务器进行域名解析获取IP。 伟大的G~F~!M针对某些域名进行DNS污染，所以使我们无法解析到一个“正常”的IP地址。所以…… 本文介绍几个开源的且更新比较及时的Hosts，大家可以关注一下。 如何选择一个Hosts呢？ 更新频率 使用的用户数量 活跃Hosts项目racaljk/hosts目前更新频率较高，关注人也多。正是因为用的人多吧，所以IP坏的也快。 开源地址：https://github.com/racaljk/hosts Hosts地址：https://raw.githubusercontent.com/racaljk/hosts/master/hosts sy618/hosts提供FQ和屏蔽广告 开源地址：https://github.com/sy618/hosts Hosts地址： https://raw.githubusercontent.com/sy618/hosts/master/FQ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ lennylxx/ipv6-hosts特点很明显IPV6嘛 开源地址：https://github.com/lennylxx/ipv6-hosts Hosts地址：https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts wangchunming/2017hosts可看YouTube，PC和手机不同的Hosts 开源地址：https://github.com/wangchunming/2017hosts Hosts地址： https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-pc https://raw.githubusercontent.com/wangchunming/2017hosts/master/hosts-mobile 老D的Hosts名气比较大，分享的方式百度网盘+文件加密 访问地址：https://laod.cn/hosts/2017-google-hosts.html 修改Hosts手动修改更新请参考历史文章 &gt;&gt;&gt;&gt; 如何修改HOSTS(全系统平台) 利用软件更新1）SwitchHosts 不错的软件，支持MAC、Windows、Linux开源地址：https://github.com/oldj/SwitchHosts 2）Gas Mask 支持MAC系统访问地址：http://www.macupdate.com/app/mac/29949/gas-mask/ 3）Hozz也是一款不错的管理工具。支持MAC 、Windows、Linux开源地址：https://github.com/ppoffice/Hozz 下载地址：https://github.com/ppoffice/Hozz/releases]]></content>
@@ -40,7 +47,7 @@
     <entry>
       <title><![CDATA[Shadowsocks-让世界触手可及]]></title>
       <url>%2F2017%2F02%2F06%2FShadowsocks%2F</url>
-      <content type="text"><![CDATA[使用方法这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。 Windows 下载 C# 版 下载这个， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。 服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。 以上信息需与下方节点信息一一对应，否者很可能无法上网。 然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。 Mac OS X 下载这个 安装， 然后下载这个 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。 laptop_mac iOS ios官方苹果商店 强烈推荐下载Shadowrocket，就可以批量添加节点。 Android下载 Android 版，点击这个 安装，下方有两种安装方式。 方法一： 配置名称随便写，服务器填写节点信息中的服务器后面的数字，远程端口填写下方节点信息中远程端口后面的数字，密码填写下方节点信息对应的密码后面的数字，加密方法在下方节点信息中加密方式后面，直接选择即可。其余不需理会。 以上信息切记需与下方信息一一对应，否者很可能连接后无法上网。 添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。 方法二（推荐）： 点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。 扫描二维码后，选择扫码之后新增的一串数字的那个，然后右上角点击粉色小飞机开启就可以翻越城墙，探索新世界了。 下方为更直截了当的图片使用方法（点击图片可放大查看） 注意如果有任何疑问请联系咨询我的QQ或是Facebook或是电子邮箱。如无法下载软件，请在浏览器中打开此网页。 节点配置 节点信息也转移至·shawocks节点信息·文章页面点击我传送 等等….]]></content>
+      <content type="text"><![CDATA[使用方法这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。 Windows 下载 C# 版方法一 下载这个， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。 服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。 以上信息需与下方节点信息一一对应，否者很可能无法上网。 然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。 方法二（推荐） Mac OS X 下载这个 安装， 然后下载这个 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。 laptop_mac iOS ios官方苹果商店 强烈推荐下载Shadowrocket，就可以批量添加节点。 Android下载 Android 版，点击这个 安装，下方有两种安装方式。 方法一： 配置名称随便写，服务器填写节点信息中的服务器后面的数字，远程端口填写下方节点信息中远程端口后面的数字，密码填写下方节点信息对应的密码后面的数字，加密方法在下方节点信息中加密方式后面，直接选择即可。其余不需理会。 以上信息切记需与下方信息一一对应，否者很可能连接后无法上网。 添加完节点，然后路由选择绕过大陆，点击右上角粉色小飞机开启就可以上网了。 方法二（推荐）： 点击粉框的shadowsocks R标题，点击右下角粉色加号，选择扫描二维码，扫描下方节点信息中任意一种二维码即可。 扫描二维码后，选择扫码之后新增的一串数字的那个，然后右上角点击粉色小飞机开启就可以翻越城墙，探索新世界了。 下方为更直截了当的图片使用方法（点击图片可放大查看） 注意如果有任何疑问请联系咨询我的QQ或是Facebook或是电子邮箱。如无法下载软件，请在浏览器中打开此网页。 节点配置 节点信息也转移至·shawocks节点信息·文章页面点击我传送 等等….]]></content>
     </entry>
 
     

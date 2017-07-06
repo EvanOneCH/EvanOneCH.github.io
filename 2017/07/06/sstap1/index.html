@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+
+    
+
+    
+<!-- Baidu Tongji -->
+<script>var _hmt = _hmt || []</script>
+<script async src="//hm.baidu.com/hm.js?372259e8590fa7d8d05f9590efeb04f4"></script>
+<!-- End Baidu Tongji -->
+
+
+
+
+    <meta charset="utf-8">
+    
+    
+    
+    <title>SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏 | Ivan&#39;s blog | Pure</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <meta name="theme-color" content="#3F51B5">
+    
+    
+    <meta name="keywords" content="翻墙 sstap">
+    <meta name="description" content="SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。
+
+SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。SSTap">
+<meta property="og:type" content="article">
+<meta property="og:title" content="SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏">
+<meta property="og:url" content="http://yoursite.com/2017/07/06/sstap1/index.html">
+<meta property="og:site_name" content="Ivan's blog">
+<meta property="og:description" content="SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。
+
+SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。SSTap">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap1.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap2.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap3.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap4.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap5.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap6.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap7.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap8.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap9.jpg">
+<meta property="og:updated_time" content="2017-07-06T03:24:18.901Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏">
+<meta name="twitter:description" content="SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。
+
+SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。SSTap">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap1.jpg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Ivan&#39;s blog" href="/atom.xml">
+    
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="//unpkg.com/hexo-theme-material-indigo@latest/css/style.css">
+    <script>window.lazyScripts=[]</script>
+</head>
+
+<body>
+    <div id="loading" class="active"></div>
+
+    <aside id="menu" class="hide" >
+  <div class="inner flex-row-vertical">
+    <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
+        <i class="icon icon-lg icon-close"></i>
+    </a>
+    <div class="brand-wrap" style="background-image:url(/img/brand.jpg)">
+      <div class="brand">
+        <a href="/" class="avatar waves-effect waves-circle waves-light">
+          <img src="/images/avatar.png">
+        </a>
+        <hgroup class="introduce">
+          <h5 class="nickname">Ivan Zhang</h5>
+          <a href="mailto:zhef@vip.qq.com" title="zhef@vip.qq.com" class="mail">zhef@vip.qq.com</a>
+        </hgroup>
+      </div>
+    </div>
+    <div class="scroll-wrap flex-col">
+      <ul class="nav">
+        
+            <li class="waves-block waves-effect">
+              <a href="/"  >
+                <i class="icon icon-lg icon-home"></i>
+                主页
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/archives"  >
+                <i class="icon icon-lg icon-archives"></i>
+                成就
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/tags"  >
+                <i class="icon icon-lg icon-tags"></i>
+                标签
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/categories"  >
+                <i class="icon icon-lg icon-th-list"></i>
+                分类
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="https://github.com/EvanOneCH" target="_blank" >
+                <i class="icon icon-lg icon-github"></i>
+                Github
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="http://weibo.com/zyf2000" target="_blank" >
+                <i class="icon icon-lg icon-weibo"></i>
+                微博
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="https://twitter.com/YifanZhX" target="_blank" >
+                <i class="icon icon-lg icon-twitter"></i>
+                Twitter
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/custom"  >
+                <i class="icon icon-lg icon-link"></i>
+                测试
+              </a>
+            </li>
+        
+      </ul>
+    </div>
+  </div>
+</aside>
+
+    <main id="main">
+        <header class="top-header" id="header">
+    <div class="flex-row">
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
+          <i class="icon icon-lg icon-navicon"></i>
+        </a>
+        <div class="flex-col header-title ellipsis">SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏</div>
+        
+        <div class="search-wrap" id="search-wrap">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
+                <i class="icon icon-lg icon-chevron-left"></i>
+            </a>
+            <input type="text" id="key" class="search-input" autocomplete="off" placeholder="输入感兴趣的关键字">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="search">
+                <i class="icon icon-lg icon-search"></i>
+            </a>
+        </div>
+        
+        
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menuShare">
+            <i class="icon icon-lg icon-share-alt"></i>
+        </a>
+        
+    </div>
+</header>
+<header class="content-header post-header">
+
+    <div class="container fade-scale">
+        <h1 class="title">SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏</h1>
+        <h5 class="subtitle">
+            
+                <time datetime="2017-07-06T03:13:48.000Z" itemprop="datePublished" class="page-time">
+  2017-07-06
+</time>
+
+
+	<ul class="article-category-list"><li class="article-category-list-item"><a class="article-category-list-link" href="/categories/翻墙/">翻墙</a></li></ul>
+
+            
+        </h5>
+    </div>
+
+    
+
+
+</header>
+
+
+<div class="container body-wrap">
+    
+    <aside class="post-widget">
+        <nav class="post-toc-wrap" id="post-toc">
+            <h4>TOC</h4>
+            <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#官方网址"><span class="post-toc-number">1.</span> <span class="post-toc-text">官方网址</span></a></li><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#安装演示"><span class="post-toc-number">2.</span> <span class="post-toc-text">安装演示</span></a></li><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#操作演示"><span class="post-toc-number">3.</span> <span class="post-toc-text">操作演示</span></a></li></ol>
+        </nav>
+    </aside>
+    
+<article id="post-sstap1"
+  class="post-article article-type-post fade" itemprop="blogPost">
+
+    <div class="post-card">
+        <h1 class="post-card-title">SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏</h1>
+        <div class="post-meta">
+            <time class="post-time" title="2017-07-06 11:13:48" datetime="2017-07-06T03:13:48.000Z"  itemprop="datePublished">2017-07-06</time>
+
+            
+	<ul class="article-category-list"><li class="article-category-list-item"><a class="article-category-list-link" href="/categories/翻墙/">翻墙</a></li></ul>
+
+
+
+            
+<span id="busuanzi_container_page_pv" title="文章总阅读量" style='display:none'>
+    <i class="icon icon-eye icon-pr"></i><span id="busuanzi_value_page_pv"></span>
+</span>
+
+
+            
+
+        </div>
+        <div class="post-content" id="post-content" itemprop="postContent">
+            <figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap1.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。</p>
+<blockquote>
+<p>SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。<br>SSTap能在网络层拦截所有连接并转发给HTTP，SOCKS4，5，SHADOWSOCKS代理.<br>而无需对被代理的应用程序做任何修改或设置。<br>它能同时转发TCP, UDP数据包。<br>它非常适合于游戏玩家使用。<br>享受你的游戏时光！请使用SSTap！</p>
+</blockquote>
+<h1 id="官方网址"><a href="#官方网址" class="headerlink" title="官方网址"></a>官方网址</h1><p><a href="https://www.sockscap64.com/sstap" target="_blank" rel="external">https://www.sockscap64.com/sstap</a></p>
+<h1 id="安装演示"><a href="#安装演示" class="headerlink" title="安装演示"></a>安装演示</h1><p>安装过程比较简单，主要就是安装的时候，会弹出安装一个虚拟网卡（见图2，点击【安装】）。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap2.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap3.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap4.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap5.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h1 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h1><p>1）启动SSTap软件，如图点击 【+】<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap6.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure><br>2）填写SS或者SSR相关信息。点击【保存】</p>
+<p>注意：如果你配置的是SS， 协议请选择 【origin】，混淆请选择【plain】如图填写。</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap7.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>3） 如图可见节点IP的地区已经延迟。 点击【连接】即可启动代理了。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap8.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>4）稍等一会，即可连接成功！！ 然后就可以愉快的玩耍了。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap9.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+
+        </div>
+
+        <blockquote class="post-copyright">
+    <div class="content">
+        
+<span class="post-time">
+    最后更新时间：<time datetime="2017-07-06T03:24:18.901Z" itemprop="dateUpdated">2017-07-06 11:24:18</time>
+</span><br>
+
+
+        
+        建立本站主要目的为方便同学浏览学术文献及进行游戏加速。我们不允许访问本站的用户使用我们的服务器浏览任何有害信息（包括严重损害国家安全的、色情的、暴力的文字、图片及视频信息），如产生任何违法行为，本站概不负责。
+        
+    </div>
+    <footer>
+        <a href="http://yoursite.com">
+            <img src="/images/avatar.png" alt="Ivan Zhang">
+            Ivan Zhang
+        </a>
+    </footer>
+</blockquote>
+
+        
+<div class="page-reward">
+    <a id="rewardBtn" href="javascript:;" class="page-reward-btn waves-effect waves-circle waves-light">赏</a>
+</div>
+
+
+
+        <div class="post-footer">
+            
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/翻墙-sstap/">翻墙 sstap</a></li></ul>
+
+
+            
+<div class="page-share-wrap">
+    
+
+<div class="page-share" id="pageShare">
+    <ul class="reset share-icons">
+      <li>
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=http://yoursite.com/2017/07/06/sstap1/&title=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&pic=http://yoursite.com/images/avatar.png" data-title="微博">
+          <i class="icon icon-weibo"></i>
+        </a>
+      </li>
+      <li>
+        <a class="weixin share-sns wxFab" href="javascript:;" data-title="微信">
+          <i class="icon icon-weixin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=http://yoursite.com/2017/07/06/sstap1/&title=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&source=Developer and Student" data-title=" QQ">
+          <i class="icon icon-qq"></i>
+        </a>
+      </li>
+      <li>
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com/2017/07/06/sstap1/" data-title=" Facebook">
+          <i class="icon icon-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&url=http://yoursite.com/2017/07/06/sstap1/&via=http://yoursite.com" data-title=" Twitter">
+          <i class="icon icon-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=http://yoursite.com/2017/07/06/sstap1/" data-title=" Google+">
+          <i class="icon icon-google-plus"></i>
+        </a>
+      </li>
+    </ul>
+ </div>
+
+
+
+    <a href="javascript:;" id="shareFab" class="page-share-fab waves-effect waves-circle">
+        <i class="icon icon-share-alt icon-lg"></i>
+    </a>
+</div>
+
+
+
+        </div>
+    </div>
+
+    
+<nav class="post-nav flex-row flex-justify-between flex-row-reverse">
+  
+
+  
+    <div class="waves-block waves-effect next">
+      <a href="/2017/05/29/hostfq1/" id="post-next" class="post-nav-link">
+        <div class="tips">Next <i class="icon icon-angle-right icon-lg icon-pl"></i></div>
+        <h4 class="title">更新及时的Hosts源以及Hosts管理工具</h4>
+      </a>
+    </div>
+  
+</nav>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    <div id="cloud-tie-wrapper" class="comments cloud-tie-wrapper"></div>
+    <script>
+    var cloudTieConfig = {
+        url: 'http://yoursite.com/2017/07/06/sstap1/index.html',
+        sourceId: 'sstap1',
+        productKey: 'e1c27f0b7502445286ded4990cc85806',
+        target: 'cloud-tie-wrapper',
+        pcFiles: [
+            '//unpkg.com/hexo-theme-material-indigo@latest/css/cloudTie/pc.css',
+            '//unpkg.com/hexo-theme-material-indigo@latest/js/cloudTie/pc.min.js',
+        ],
+        mobileFiles: [
+            '//unpkg.com/hexo-theme-material-indigo@latest/css/cloudTie/mobile.css',
+            '//unpkg.com/hexo-theme-material-indigo@latest/js/cloudTie/mobile.min.js'
+        ]
+    };
+    </script>
+    <script src="//unpkg.com/hexo-theme-material-indigo@latest/js/cloudTie/loader.min.js"></script>
+
+
+
+
+
+
+
+</article>
+
+<div id="reward" class="page-modal reward-lay">
+    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <h3 class="reward-title">
+        <i class="icon icon-quote-left"></i>
+        感谢您对我的支持
+        <i class="icon icon-quote-right"></i>
+    </h3>
+    <ul class="reward-items">
+        
+
+        
+        <li>
+            <img src="/images/alipay.jpg" title="支付宝打赏二维码" alt="支付宝打赏二维码">
+            <p>支付宝</p>
+        </li>
+        
+    </ul>
+</div>
+
+
+
+</div>
+
+        <footer class="footer">
+    <div class="top">
+        
+<p>
+    <span id="busuanzi_container_site_uv" style='display:none'>
+        站点总访客数： 6<span id="busuanzi_value_site_uv"></span>
+    </span>
+    <span id="busuanzi_container_site_pv" style='display:none'>
+        站点总访问量： 8<span id="busuanzi_value_site_pv"></span>
+    </span>
+</p>
+
+
+        <p>
+            
+                <span><a href="/atom.xml" target="_blank" class="rss" title="rss"><i class="icon icon-lg icon-rss"></i></a></span>
+            
+            <span>博客内容遵循<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享 署名 - 非商业性 - 相同方式共享 4.0 国际协议</a></span>
+        </p>
+    </div>
+    <div class="bottom">
+        <p>
+            <span>Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank">indigo</a></span>
+            <span>Ivan Zhang &copy; 2015 - 2017</span>
+        </p>
+    </div>
+</footer>
+
+    </main>
+    <div class="mask" id="mask"></div>
+<a href="javascript:;" id="gotop" class="waves-effect waves-circle waves-light"><span class="icon icon-lg icon-chevron-up"></span></a>
+
+
+
+<div class="global-share" id="globalShare">
+    <ul class="reset share-icons">
+      <li>
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=http://yoursite.com/2017/07/06/sstap1/&title=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&pic=http://yoursite.com/images/avatar.png" data-title="微博">
+          <i class="icon icon-weibo"></i>
+        </a>
+      </li>
+      <li>
+        <a class="weixin share-sns wxFab" href="javascript:;" data-title="微信">
+          <i class="icon icon-weixin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=http://yoursite.com/2017/07/06/sstap1/&title=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&source=Developer and Student" data-title=" QQ">
+          <i class="icon icon-qq"></i>
+        </a>
+      </li>
+      <li>
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com/2017/07/06/sstap1/" data-title=" Facebook">
+          <i class="icon icon-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏》 — Ivan's blog&url=http://yoursite.com/2017/07/06/sstap1/&via=http://yoursite.com" data-title=" Twitter">
+          <i class="icon icon-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=http://yoursite.com/2017/07/06/sstap1/" data-title=" Google+">
+          <i class="icon icon-google-plus"></i>
+        </a>
+      </li>
+    </ul>
+ </div>
+
+
+<div class="page-modal wx-share" id="wxShare">
+    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABzElEQVR42u3aQW7DMAwEwPz/0y7QU4HUylKUlLQYnYLAscc5LERSj0e8ru/18/Pz6ly5eOHi4ra513A9X3P3zfiec3/BL7/FxcU9yM1vd/erJJiqoYaLi/v53ITe2Qzh4uL+D27+SFxc3L/I7Tc7xkXL+JsttRouLm6DO9cwXft5e38XFxd30VQi38pUQ+eaWri4uGe4/WJm7gWqrdUFPVdcXNwGN2mP5tfkW6XJjQ4uLu427lxzM39wNfIKbRFcXNyD3GRE2o+qMT2KOVxc3A3czgHN8dYnL3sK41tcXNzj3FWFUL5tygPxUf0XcXFxF3FzRF6uzJVMt9fg4uIe4easucNb1UFsFHm4uLibufk4JC+T8pAav+Rt8YOLi7uZmzdJqyOQPBALBy9wcXGPcOfiqTpWyaPqRSDi4uIe51YPYXSKnMmBLi4u7hFu3qzMWdUhax6CuLi4Z7hXcVWjKgclgxlcXNwz3Oqt85eshlo/+HBxcddy5x6cDEU6I9XCmRFcXNxt3LlCKAF1tj64uLifz602SvpHu14cz8LFxf0Ybv7IThMkOi2Ci4u7mTvX4MhjqNoYxcXFfS+32jDNtzXVJulciYWLi7uU+wV7dJp5D+cGDAAAAABJRU5ErkJggg==" alt="微信分享二维码">
+</div>
+
+
+
+
+    <script src="//cdn.bootcss.com/node-waves/0.7.4/waves.min.js"></script>
+<script>
+var BLOG = { ROOT: '/', SHARE: true, REWARD: true };
+
+
+
+</script>
+
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/main.min.js"></script>
+
+
+<div class="search-panel" id="search-panel">
+    <ul class="search-result" id="search-result"></ul>
+</div>
+<template id="search-tpl">
+<li class="item">
+    <a href="{path}" class="waves-block waves-effect">
+        <div class="title ellipsis" title="{title}">{title}</div>
+        <div class="flex-row flex-middle">
+            <div class="tags ellipsis">
+                {tags}
+            </div>
+            <time class="flex-col time">{date}</time>
+        </div>
+    </a>
+</li>
+</template>
+
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/search.min.js" async></script>
+
+
+
+
+
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+<script>
+(function() {
+    var OriginTitile = document.title, titleTime;
+    document.addEventListener('visibilitychange', function() {
+        if (document.hidden) {
+            document.title = '死鬼去哪里了！';
+            clearTimeout(titleTime);
+        } else {
+            document.title = '(つェ⊂)咦!又好了!';
+            titleTime = setTimeout(function() {
+                document.title = OriginTitile;
+            },2000);
+        }
+    });
+})();
+</script>
+
+
+
+</body>
+</html>

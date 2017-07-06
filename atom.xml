@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-29T08:43:32.852Z</updated>
+  <updated>2017-07-06T03:24:18.901Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,105 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SSTap支持SS/SSR全局代理，配置简单，愉快的玩游戏</title>
+    <link href="http://yoursite.com/2017/07/06/sstap1/"/>
+    <id>http://yoursite.com/2017/07/06/sstap1/</id>
+    <published>2017-07-06T03:13:48.000Z</published>
+    <updated>2017-07-06T03:24:18.901Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap1.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>SSTap 配置比较简单，适合小白用户上手。且支持TCP/UDP转发~ 这样玩游戏更方便啦。</p>
+<blockquote>
+<p>SSTap全称SOCKSTap, 是一款利用虚拟网卡技术在网络层实现的代理工具。<br>SSTap能在网络层拦截所有连接并转发给HTTP，SOCKS4，5，SHADOWSOCKS代理.<br>而无需对被代理的应用程序做任何修改或设置。<br>它能同时转发TCP, UDP数据包。<br>它非常适合于游戏玩家使用。<br>享受你的游戏时光！请使用SSTap！</p>
+</blockquote>
+<h1 id="官方网址"><a href="#官方网址" class="headerlink" title="官方网址"></a>官方网址</h1><p><a href="https://www.sockscap64.com/sstap" target="_blank" rel="external">https://www.sockscap64.com/sstap</a></p>
+<h1 id="安装演示"><a href="#安装演示" class="headerlink" title="安装演示"></a>安装演示</h1><p>安装过程比较简单，主要就是安装的时候，会弹出安装一个虚拟网卡（见图2，点击【安装】）。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap2.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap3.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap4.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap5.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<h1 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h1><p>1）启动SSTap软件，如图点击 【+】<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap6.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure><br>2）填写SS或者SSR相关信息。点击【保存】</p>
+<p>注意：如果你配置的是SS， 协议请选择 【origin】，混淆请选择【plain】如图填写。</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap7.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure>
+<p>3） 如图可见节点IP的地区已经延迟。 点击【连接】即可启动代理了。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap8.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+<p>4）稍等一会，即可连接成功！！ 然后就可以愉快的玩耍了。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/sstap9.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+    
+    </summary>
+    
+      <category term="翻墙" scheme="http://yoursite.com/categories/%E7%BF%BB%E5%A2%99/"/>
+    
+    
+      <category term="翻墙 sstap" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99-sstap/"/>
+    
+  </entry>
+  
+  <entry>
     <title>更新及时的Hosts源以及Hosts管理工具</title>
     <link href="http://yoursite.com/2017/05/29/hostfq1/"/>
     <id>http://yoursite.com/2017/05/29/hostfq1/</id>
     <published>2017-05-29T08:40:27.000Z</published>
-    <updated>2017-05-29T08:43:32.852Z</updated>
+    <updated>2017-07-06T03:31:12.107Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -98,7 +192,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     </summary>
     
     
-      <category term="host翻墙" scheme="http://yoursite.com/tags/host%E7%BF%BB%E5%A2%99/"/>
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
   </entry>
   
@@ -390,10 +484,10 @@ Linux系统hosts位于 /etc/hosts
     <link href="http://yoursite.com/2017/02/06/Shadowsocks/"/>
     <id>http://yoursite.com/2017/02/06/Shadowsocks/</id>
     <published>2017-02-05T16:00:00.000Z</published>
-    <updated>2017-05-13T12:51:02.587Z</updated>
+    <updated>2017-07-06T03:11:56.946Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
-<h3 id="Windows-下载-C-版"><a href="#Windows-下载-C-版" class="headerlink" title="Windows 下载 C# 版"></a>Windows 下载 C# 版</h3><ul>
+<h3 id="Windows-下载-C-版"><a href="#Windows-下载-C-版" class="headerlink" title="Windows 下载 C# 版"></a>Windows 下载 C# 版</h3><h4 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h4><ul>
 <li><p>下载<a href="https://www.freefan.cc/ssr-download/ssr-win.7z" target="_blank" rel="external">这个</a>， 将文件解压到桌面或硬盘内，xp系统请使用2.0版本，win7至win10使用4.0版本。</p>
 </li>
 <li><p>服务器后面的数字在 服务器Ip 内，远程端口t后面的数字填在 服务器端口 内，加密方式在 加密 中，按指定的选择即可。其余不用理会。</p>
@@ -403,7 +497,10 @@ Linux系统hosts位于 /etc/hosts
 <li><p>然后选择一个合适的服务器，更新一下PAC为绕过国内IP，然后开启统代理为PAC模式即可翻墙上网。</p>
 </li>
 </ul>
-<h3 id="Mac-OS-X"><a href="#Mac-OS-X" class="headerlink" title="Mac OS X"></a>Mac OS X</h3><ul>
+<h4 id="方法二（推荐）"><a href="#方法二（推荐）" class="headerlink" title="方法二（推荐）"></a>方法二（推荐）</h4><ul>
+<li><h3 id="Mac-OS-X"><a href="#Mac-OS-X" class="headerlink" title="Mac OS X"></a>Mac OS X</h3></li>
+</ul>
+<ul>
 <li><p>下载<a href="https://www.freefan.cc/ssr-download/ssr-mac.dmg" target="_blank" rel="external">这个</a> 安装，</p>
 </li>
 <li><p>然后下载<a href="https://www.freefan.cc/user/getpcconf?without_mu=0" target="_blank" rel="external">这个</a> 运行程序，小飞机上右键 服务器列表 子菜单 的 “导入服务器配置文件…” 导入这个文件，然后选择一个合适的服务器，更新一下PAC，然后开启系统代理即可上网。</p>
