@@ -1407,45 +1407,63 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/02/07/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
     <id>http://yoursite.com/2017/02/07/shawsocks节点信息/</id>
     <published>2017-02-07T13:59:43.000Z</published>
-    <updated>2017-07-07T07:57:41.159Z</updated>
+    <updated>2017-07-27T04:34:29.921Z</updated>
     
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
-<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-6-6"><a href="#更新时间为：-2017-6-6" class="headerlink" title="更新时间为： 2017.6.6"></a>更新时间为： 2017.6.6</h3><p>  更新内容： 全新的服务器，延迟更小，速度更快，欢迎您的体验。<br>  近期上线200M香港节点，敬请期待。<br>  注意： 以下节点的二维码适用于安卓原版ssr客户端</p>
-<h2 id="节点一（美国加州）"><a href="#节点一（美国加州）" class="headerlink" title="节点一（美国加州）"></a>节点一（美国加州）</h2><ul>
+<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-7-27"><a href="#更新时间为：-2017-7-27" class="headerlink" title="更新时间为： 2017.7.27"></a>更新时间为： 2017.7.27</h3><p>更新内容： </p>
+<ul>
+<li>全新的服务器，延迟更小，速度更快，欢迎您的体验。</li>
+</ul>
+<ul>
+<li><p>已经上线200M香港阿里云节点，200M新加坡阿里云节点，集众多优秀节点   </p>
+</li>
+<li><p>上线工程师专用通道，致敬。</p>
+</li>
+</ul>
+<p>注意： 以下节点的二维码适用于安卓原版ssr客户端</p>
+<h2 id="节点一（新加坡阿里云）"><a href="#节点一（新加坡阿里云）" class="headerlink" title="节点一（新加坡阿里云）"></a>节点一（新加坡阿里云）</h2><ul>
 <li>二维码如下</li>
 </ul>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/lajizhanss1.PNG" alt="" title="">
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/singapo.PNG" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure>
 <ul>
-<li>SSR链接： <code>ssr://MTM4LjY4LjIyNi4xNDQ6MTA4Mzc6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6VG10QmJVVnMvP29iZnNwYXJhbT0mcmVtYXJrcz01WjZENVp5LTU2dVo=</code><h2 id="节点二（洛杉矶节点-ipv4-ipv6双线）"><a href="#节点二（洛杉矶节点-ipv4-ipv6双线）" class="headerlink" title="节点二（洛杉矶节点-ipv4/ipv6双线）"></a>节点二（洛杉矶节点-ipv4/ipv6双线）</h2></li>
+<li>SSR链接： <code>ssr://NDcuODguMjE2LjYzOjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6VWs1WmJtTlNXRFpLZVV4M00wTjZSMVF5YVN0QlFUMDkvP29iZnNwYXJhbT1kMmx1Wkc5M2MzVndaR0YwWlM1dGFXTnliM052Wm5RdVkyOXQmcmVtYXJrcz01cGF3NVlxZzVaMmg2WmlfNlllTTVMcVImZ3JvdXA9YVcxNmVXWXVlSGw2</code><h2 id="节点二（新加坡200M阿里云）"><a href="#节点二（新加坡200M阿里云）" class="headerlink" title="节点二（新加坡200M阿里云）"></a>节点二（新加坡200M阿里云）</h2></li>
 <li>二维码如下</li>
 </ul>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/doubledouss1.PNG" alt="" title="">
+                    <img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/singapo200.PNG" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure>
 <ul>
-<li>SSR链接： <code>ssr://bG9zZnJlZS5kb3VibGVkb3UudG9wOjE0ODMxOm9yaWdpbjpyYzQtbWQ1OnBsYWluOk9EaDRVWHBxLz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yNklxQzU0SzVMV2x3ZGpRdmFYQjJOdVdQak9lNnZ5QQ</code></li>
-<li>服务器地址：losfree.doubledou.top  </li>
-<li>服务器端口：14831</li>
-<li>加密方式：rc4-md5</li>
-<li>密码：88xQzj</li>
-<li>协议：origin</li>
-<li>协议参数：</li>
-<li>混淆：plain</li>
-<li>混淆参数：</li>
+<li>SSR链接： <code>ssr://c2cyLTEuYmNvZGVyc3MuY29tOjc1Nzc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1qQXdNREV5TVRrLz9vYmZzcGFyYW09JnJlbWFya3M9NXBhdzVZcWc1WjJoWHpJd01FMCZncm91cD1hVzE2ZVdZdWVIbDY</code></li>
 </ul>
-<h2 id="节点三"><a href="#节点三" class="headerlink" title="节点三"></a>节点三</h2><ul>
+<h2 id="节点三（香港200M阿里云）"><a href="#节点三（香港200M阿里云）" class="headerlink" title="节点三（香港200M阿里云）"></a>节点三（香港200M阿里云）</h2><ul>
+<li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/hongkong.PNG" alt=""></li>
+<li>SSR链接：  <code>ssr://aGsyLTMuYmNvZGVyc3MuY29tOjc1Nzc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1qQXdNREV5TVRrLz9vYmZzcGFyYW09JnJlbWFya3M9NmFhWjVyaXZYekl3TUUwJmdyb3VwPWFXMTZlV1l1ZUhsNg</code></li>
+</ul>
+<h2 id="节点四（日本东京）"><a href="#节点四（日本东京）" class="headerlink" title="节点四（日本东京）"></a>节点四（日本东京）</h2><ul>
+<li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/japan.PNG" alt=""></li>
+<li>SSR链接：  <code>ssr://MTA4LjYxLjI1MC4xMTU6MTM3MTpvcmlnaW46Y2hhY2hhMjA6cGxhaW46UVdKVmVERjUvP29iZnNwYXJhbT0mcmVtYXJrcz01cGVsNXB5czVMaWM1THFzJmdyb3VwPWFXMTZlV1l1ZUhsNg</code></li>
+</ul>
+<h2 id="节点五（美国加州）"><a href="#节点五（美国加州）" class="headerlink" title="节点五（美国加州）"></a>节点五（美国加州）</h2><ul>
 <li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/IBMr1.PNG" alt=""></li>
 <li>SSR链接：  <code>ssr://MTY5LjQ0LjAuMjQ1Ojg5ODk6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1haaGJqWTJOalkvP29iZnNwYXJhbT0mcmVtYXJrcz01NEs1NVllNzZMLVo2WWVNVWpIdnZJaDNkM2N1YVcxNmVXWXVlSGw2Nzd5Sg</code></li>
+</ul>
+<h2 id="节点六（美国备用）"><a href="#节点六（美国备用）" class="headerlink" title="节点六（美国备用）"></a>节点六（美国备用）</h2><ul>
+<li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/amby.PNG" alt=""></li>
+<li>SSR链接：  <code>ssr://MjMuMTA1LjE5Ny4xNjU6MTI1NDpvcmlnaW46Y2hhY2hhMjA6cGxhaW46TlRZM09Eay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTU3Nk81WnU5NWFTSDU1U28mZ3JvdXA9YVcxNmVXWXVlSGw2</code></li>
+</ul>
+<h2 id="节点七（美国测试-专为工程师提供）"><a href="#节点七（美国测试-专为工程师提供）" class="headerlink" title="节点七（美国测试-专为工程师提供）"></a>节点七（美国测试-专为工程师提供）</h2><ul>
+<li>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/amby2.PNG" alt=""></li>
+<li>SSR链接：  <code>ssr://MTA0LjE5NC44MC45MzoxMjU0Om9yaWdpbjpjaGFjaGEyMDpwbGFpbjpOVFkzT0RrLz9vYmZzcGFyYW09JnJlbWFya3M9NTc2TzVadTk1YVNINTVTbzVyV0w2Sy1WJmdyb3VwPWFXMTZlV1l1ZUhsNg</code></li>
 </ul>
 ]]></content>
     
