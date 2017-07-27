@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-07T08:35:40.765Z</updated>
+  <updated>2017-07-27T02:43:44.890Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电脑内存自优化软件---Mem Reduct</title>
+    <link href="http://yoursite.com/2017/07/27/%E7%94%B5%E8%84%91%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    <id>http://yoursite.com/2017/07/27/电脑小工具/</id>
+    <published>2017-07-27T02:39:46.000Z</published>
+    <updated>2017-07-27T02:43:44.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>电脑内存占用高了怎么办？</p>
+<p>什么？还有人用加速球？还有什么小火箭？</p>
+<p>不管你毒不毒瘤，这都是过时操作了</p>
+<p>再给大家推荐一款电脑内存自优化软件—-<br>Mem Reduct<br><a id="more"></a></p>
+<p>1、对，你没看错，不到0.5M的小软件，如果还有人说什么优化软件反而占后台，那我无Fa可说。</p>
+<p>2、强大的蜜汁优化能力，楼主到现在也没搞清楚其原理……</p>
+<p>3、效果强悍，楼主笔记本内存8G，用了该软件，一般内存占用不会超过15%，游戏中内存也才占20%（具体可看我动态里上一个推荐软件的检测信息）</p>
+<h3 id="注意事项："><a href="#注意事项：" class="headerlink" title="注意事项："></a>注意事项：</h3><p>1、当然是要开机自启使用坠吼啊。</p>
+<p>2、图三中的“需要清理的内存区域”选1,2,3就好<br>（楼主以前用win7时，作死开启了后两个…<br>结果卡死！没错！就是直接卡死，由于软件是开机自启，结果无限卡死！。现在用win10，不知道打开后果如何。）</p>
+<p>3、图三中的“内存管理”中，设置越小效果越好。不过频繁的清理会有气泡提醒，关闭提醒就好。</p>
+<p>该小工具优化超强，具体下载体验。内存日常不超过20%不是梦！（专治强迫症）</p>
+<pre><code>链接： https://t.cn/R9Am9FR
+</code></pre><p>有32&amp;64位版，下载对应版本即可。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;电脑内存占用高了怎么办？&lt;/p&gt;
+&lt;p&gt;什么？还有人用加速球？还有什么小火箭？&lt;/p&gt;
+&lt;p&gt;不管你毒不毒瘤，这都是过时操作了&lt;/p&gt;
+&lt;p&gt;再给大家推荐一款电脑内存自优化软件—-&lt;br&gt;Mem Reduct&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="电脑小工具" scheme="http://yoursite.com/tags/%E7%94%B5%E8%84%91%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>微软激活密钥合集（最后更新于 2017年7月6日21:05 ）</title>
