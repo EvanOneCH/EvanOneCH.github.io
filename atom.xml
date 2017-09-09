@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-27T05:31:55.052Z</updated>
+  <updated>2017-09-09T09:04:03.104Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/07/27/pcbettertools/"/>
     <id>http://yoursite.com/2017/07/27/pcbettertools/</id>
     <published>2017-07-27T05:27:03.000Z</published>
-    <updated>2017-07-27T05:31:55.052Z</updated>
+    <updated>2017-09-09T09:04:03.104Z</updated>
     
     <content type="html"><![CDATA[<p>这些都是实用的电脑软件，也是博主正在使用的，前几天有人发邮件问博主哪些软件比较好用，故此谢了这篇文章。</p>
 <p>软件下载链接这几天会陆续增添。PS：善用百度 Google</p>
@@ -56,7 +56,9 @@
     </summary>
     
     
-      <category term="PC Tools" scheme="http://yoursite.com/tags/PC-Tools/"/>
+      <category term="电脑" scheme="http://yoursite.com/tags/%E7%94%B5%E8%84%91/"/>
+    
+      <category term="实用小工具" scheme="http://yoursite.com/tags/%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -65,7 +67,7 @@
     <link href="http://yoursite.com/2017/07/27/%E7%94%B5%E8%84%91%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
     <id>http://yoursite.com/2017/07/27/电脑小工具/</id>
     <published>2017-07-27T02:39:46.000Z</published>
-    <updated>2017-07-27T05:24:19.493Z</updated>
+    <updated>2017-09-09T09:07:31.752Z</updated>
     
     <content type="html"><![CDATA[<p>电脑内存占用高了怎么办？</p>
 <p>什么？还有人用加速球？还有什么小火箭？</p>
@@ -114,7 +116,9 @@
     </summary>
     
     
-      <category term="电脑小工具" scheme="http://yoursite.com/tags/%E7%94%B5%E8%84%91%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+      <category term="电脑" scheme="http://yoursite.com/tags/%E7%94%B5%E8%84%91/"/>
+    
+      <category term="实用小工具" scheme="http://yoursite.com/tags/%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -123,7 +127,7 @@
     <link href="http://yoursite.com/2017/07/07/office/"/>
     <id>http://yoursite.com/2017/07/07/office/</id>
     <published>2017-07-07T08:10:14.000Z</published>
-    <updated>2017-07-07T08:35:40.765Z</updated>
+    <updated>2017-09-09T09:03:19.198Z</updated>
     
     <content type="html"><![CDATA[<p>请关注本站获取最新的KEY，本页不定时实时更新！ （最后更新于 2017年7月6日21:05 ）</p>
 <blockquote>
@@ -1189,7 +1193,11 @@ YK7F8-D87CT-CGH94-JYHXC-F8XYB
     </summary>
     
     
-      <category term="微软激活秘钥" scheme="http://yoursite.com/tags/%E5%BE%AE%E8%BD%AF%E6%BF%80%E6%B4%BB%E7%A7%98%E9%92%A5/"/>
+      <category term="微软" scheme="http://yoursite.com/tags/%E5%BE%AE%E8%BD%AF/"/>
+    
+      <category term="激活" scheme="http://yoursite.com/tags/%E6%BF%80%E6%B4%BB/"/>
+    
+      <category term="密钥" scheme="http://yoursite.com/tags/%E5%AF%86%E9%92%A5/"/>
     
   </entry>
   
@@ -1198,7 +1206,7 @@ YK7F8-D87CT-CGH94-JYHXC-F8XYB
     <link href="http://yoursite.com/2017/07/06/sstap1/"/>
     <id>http://yoursite.com/2017/07/06/sstap1/</id>
     <published>2017-07-06T03:13:48.000Z</published>
-    <updated>2017-07-06T03:24:18.901Z</updated>
+    <updated>2017-09-09T09:06:25.428Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -1283,7 +1291,9 @@ YK7F8-D87CT-CGH94-JYHXC-F8XYB
       <category term="翻墙" scheme="http://yoursite.com/categories/%E7%BF%BB%E5%A2%99/"/>
     
     
-      <category term="翻墙 sstap" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99-sstap/"/>
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="SSTap" scheme="http://yoursite.com/tags/SSTap/"/>
     
   </entry>
   
@@ -1292,7 +1302,7 @@ YK7F8-D87CT-CGH94-JYHXC-F8XYB
     <link href="http://yoursite.com/2017/05/29/hostfq1/"/>
     <id>http://yoursite.com/2017/05/29/hostfq1/</id>
     <published>2017-05-29T08:40:27.000Z</published>
-    <updated>2017-07-07T08:03:59.182Z</updated>
+    <updated>2017-09-09T09:02:19.668Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -1370,6 +1380,8 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     </summary>
     
     
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
       <category term="HOST" scheme="http://yoursite.com/tags/HOST/"/>
     
   </entry>
@@ -1379,7 +1391,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/03/01/PPT%E5%88%B6%E4%BD%9C1/"/>
     <id>http://yoursite.com/2017/03/01/PPT制作1/</id>
     <published>2017-03-01T11:04:36.000Z</published>
-    <updated>2017-04-02T05:28:27.085Z</updated>
+    <updated>2017-09-09T09:04:55.969Z</updated>
     
     <content type="html"><![CDATA[<h1 id="审美不过关也可以美化PPT的方法"><a href="#审美不过关也可以美化PPT的方法" class="headerlink" title="审美不过关也可以美化PPT的方法"></a>审美不过关也可以美化PPT的方法</h1><p>所需工具：PPT美化大师（文末有获取方式）</p>
 <h2 id="工具介绍"><a href="#工具介绍" class="headerlink" title="工具介绍"></a>工具介绍</h2><p>这是一款 PPT 插件，很多人都安装此插件来帮助自己做 PPT，让 PPT 变得更美！</p>
@@ -1465,6 +1477,8 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
       <category term="PPT制作" scheme="http://yoursite.com/categories/PPT%E5%88%B6%E4%BD%9C/"/>
     
     
+      <category term="美化" scheme="http://yoursite.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
       <category term="PPT制作" scheme="http://yoursite.com/tags/PPT%E5%88%B6%E4%BD%9C/"/>
     
   </entry>
@@ -1474,7 +1488,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/02/07/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
     <id>http://yoursite.com/2017/02/07/shawsocks节点信息/</id>
     <published>2017-02-07T13:59:43.000Z</published>
-    <updated>2017-08-27T08:54:14.080Z</updated>
+    <updated>2017-09-09T09:05:55.579Z</updated>
     
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
 <h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-8-27"><a href="#更新时间为：-2017-8-27" class="headerlink" title="更新时间为： 2017.8.27"></a>更新时间为： 2017.8.27</h3><p>更新内容： </p>
@@ -1504,6 +1518,10 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     
       <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
+      <category term="SSR" scheme="http://yoursite.com/tags/SSR/"/>
+    
+      <category term="SS" scheme="http://yoursite.com/tags/SS/"/>
+    
   </entry>
   
   <entry>
@@ -1511,7 +1529,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/02/06/Shadowsocks/"/>
     <id>http://yoursite.com/2017/02/06/Shadowsocks/</id>
     <published>2017-02-05T16:00:00.000Z</published>
-    <updated>2017-07-27T05:05:02.852Z</updated>
+    <updated>2017-09-09T09:05:22.979Z</updated>
     
     <content type="html"><![CDATA[<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>这里为您提供了自动化地配置文件生成，包含了所有 Shadowsocks 服务器的信息，方便您在诸多的服务器中快速添加，快速切换。<br><a id="more"></a></p>
 <h3 id="Windows-下载-C-版"><a href="#Windows-下载-C-版" class="headerlink" title="Windows 下载 C# 版"></a>Windows 下载 C# 版</h3><h4 id="方法一（推荐）"><a href="#方法一（推荐）" class="headerlink" title="方法一（推荐）"></a>方法一（推荐）</h4><ul>
@@ -1610,6 +1628,10 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     
       <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
+      <category term="SSR" scheme="http://yoursite.com/tags/SSR/"/>
+    
+      <category term="SS" scheme="http://yoursite.com/tags/SS/"/>
+    
   </entry>
   
   <entry>
@@ -1617,7 +1639,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     <link href="http://yoursite.com/2017/01/06/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2017/01/06/我为什么写博客/</id>
     <published>2017-01-06T03:09:52.000Z</published>
-    <updated>2017-07-28T08:03:35.804Z</updated>
+    <updated>2017-09-09T09:08:08.703Z</updated>
     
     <content type="html"><![CDATA[<p>坚持写这个博客是我所做的最明智的决定之一，我曾经开过很多个博客，只有这个博客坚持了下来。去年，我为自己订立了一个目标：写17篇博文，最终不但达到目标，还超过了这个数字。今年我决定减少博文数量，以每周一篇的频率，以写更有深度的博文。</p>
 <a id="more"></a>
@@ -1662,7 +1684,7 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
       <category term="概括" scheme="http://yoursite.com/categories/%E6%A6%82%E6%8B%AC/"/>
     
     
-      <category term="概括" scheme="http://yoursite.com/tags/%E6%A6%82%E6%8B%AC/"/>
+      <category term="心里话" scheme="http://yoursite.com/tags/%E5%BF%83%E9%87%8C%E8%AF%9D/"/>
     
   </entry>
   
