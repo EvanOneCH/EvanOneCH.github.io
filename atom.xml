@@ -1453,9 +1453,9 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
     </summary>
     
     
-      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
-    
       <category term="HOST" scheme="http://yoursite.com/tags/HOST/"/>
+    
+      <category term="翻墙" scheme="http://yoursite.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
   </entry>
   
@@ -1557,14 +1557,14 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
   </entry>
   
   <entry>
-    <title>shawsocks节点信息【更新于-2017-8-27】</title>
+    <title>shawsocks节点信息【更新于-2017-10-1】</title>
     <link href="http://yoursite.com/2017/02/07/shawsocks%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF/"/>
     <id>http://yoursite.com/2017/02/07/shawsocks节点信息/</id>
     <published>2017-02-07T13:59:43.000Z</published>
-    <updated>2017-09-09T09:05:55.579Z</updated>
+    <updated>2017-10-01T09:29:06.535Z</updated>
     
     <content type="html"><![CDATA[<p>本页面为节点信息，具体使用方法请点击<a href="http://imzyf.xyz/2017/02/06/Shadowsocks/" target="_blank" rel="external">这里</a><br><a id="more"></a></p>
-<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-8-27"><a href="#更新时间为：-2017-8-27" class="headerlink" title="更新时间为： 2017.8.27"></a>更新时间为： 2017.8.27</h3><p>更新内容： </p>
+<h1 id="节点信息"><a href="#节点信息" class="headerlink" title="节点信息"></a>节点信息</h1><h3 id="更新时间为：-2017-10-1"><a href="#更新时间为：-2017-10-1" class="headerlink" title="更新时间为： 2017.10.1"></a>更新时间为： 2017.10.1</h3><p>更新内容： </p>
 <ul>
 <li><p>全新的服务器，延迟更小，速度更快，欢迎您的体验。</p>
 </li>
@@ -1572,7 +1572,13 @@ https://raw.githubusercontent.com/sy618/hosts/master/ADFQ
 </li>
 </ul>
 <p>注意： 以下节点的二维码适用于安卓原版ssr客户端</p>
-<h2 id="节点一（美国加州）"><a href="#节点一（美国加州）" class="headerlink" title="节点一（美国加州）"></a>节点一（美国加州）</h2><ul>
+<h2 id="节点一（日本）"><a href="#节点一（日本）" class="headerlink" title="节点一（日本）"></a>节点一（日本）</h2><ul>
+<li><p>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/linode1.png" alt=""></p>
+</li>
+<li><p>SSR链接：  <code>ssr://MTcyLjEwNC4xMDYuOTk6ODA4MDphdXRoX3NoYTFfdjQ6Y2hhY2hhMjA6aHR0cF9zaW1wbGU6WTNad2N5NTBiM0E</code></p>
+</li>
+</ul>
+<h2 id="节点二（美国加州）"><a href="#节点二（美国加州）" class="headerlink" title="节点二（美国加州）"></a>节点二（美国加州）</h2><ul>
 <li><p>二维码如下<br><img src="https://raw.githubusercontent.com/EvanOneCH/MarkdownPhotos/master/Res/IBMr1.PNG" alt=""></p>
 </li>
 <li><p>SSR链接：  <code>ssr://MTY5LjQ0LjAuMjQ1Ojg5ODk6b3JpZ2luOnJjNC1tZDU6cGxhaW46U1haaGJqWTJOalkvP29iZnNwYXJhbT0mcmVtYXJrcz01NEs1NVllNzZMLVo2WWVNVWpIdnZJaDNkM2N1YVcxNmVXWXVlSGw2Nzd5Sg</code></p>
